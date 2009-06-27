@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 084-AREQUIPA
+EL CONSEJO REGIONAL DE AREQUIPA;
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que mediante el Decreto Supremo Nº 019-2009-PCM se ha aprobado el Reglamento de la Ley que adscribe los CETICOS de Ilo, Matarani y Paita a los Gobiernos Regionales de Moquegua, Arequipa y Piura; la ZOFRATACNA al Gobierno Regional de Tacna; y ZEEDEPUNO al Gobierno Regional de Puno, en cuya Segunda Disposición Complementaria Final se establece que:
+“SEGUNDA.- Los Gobiernos Regionales, los CETICOS, el Comité de Administración de la ZOFRATACNA y el Comité de Administración de la ZEEDEPUNO, deberán adecuar sus respectivos Reglamentos de Organización y Funciones, Manuales y demás instrumentos de gestión, vigentes a la fecha y en cuanto resulte pertinente, a las disposiciones de la Ley Nº 29014 y al presente Reglamento, en un plazo no mayor a sesenta (60) días calendario de la entrada en vigencia del presente Decreto Supremo.”;
+Que mediante Ordenanza Regional Nº 021-AREQUIPA se modificó el artículo 92° del Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Arequipa, aprobado a través de la Ordenanza Regional Nº 010-AREQUIPA, con el objeto de determinar que el CETICOS Matarani se constituía en un órgano desconcentrado del Gobierno Regional de Arequipa, lo que no guarda concordancia con la normativa arriba mencionada, por lo que resulta conveniente derogarla y en su lugar modificar el Artículo 95° del ROF del Gobierno Regional de Arequipa con el objeto de que el CETICOS Matarani se constituya en uno de sus órgano descentralizados, dado que estas entidades cuentan con autonomía administrativa, técnica, económica, financiera y operativa dispuesta por la Ley Nº 28569;
+Que, por estas consideraciones, de conformidad con lo regulado en la Ley 27783 / Ley de Bases de la Descentralización, la Ley 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; y en observancia del marco legislativo regional constituido por la Ordenanza Regional Nº 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 055-AREQUIPA;
+Estando al Dictamen de la Comisión de Planeamiento y Presupuesto Nº 010-2009-GRA-CRA/CPP;
+ORDENA
