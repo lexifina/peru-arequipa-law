@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 094-AREQUIPA
+EL CONSEJO REGIONAL DE AREQUIPA;
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, la participación es uno de los principios rectores de los gobiernos regionales; los que promueven el desarrollo de mecanismos y estrategias de participación de la sociedad civil, en la programación de su presupuesto, en concordancia con sus planes de desarrollo concertados; así como, en la vigilancia y fiscalización de la gestión de los recursos públicos, y que el proceso del presupuesto participativo es un mecanismo de asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos, que fortalece las relaciones Estado con la Sociedad Civil;
+Que, el presupuesto participativo es un espacio de democratización; de legalidad y legitimación del desarrollo regional en el que a través del debate y toma de acuerdos; en un espacio de información; los actores sociales pueden conocer y formar su opinión respecto a las competencias constitucionales de los Gobiernos Regionales como; promover el desarrollo socioeconómico regional y ejecutar los planes y programas correspondientes, dictar las normas inherentes a la gestión regional, promover y regular actividades y/o servicios en materia de agricultura, pesquería, industria, agroindustria, comercio, turismo, energía, minería, vialidad, comunicaciones, educación, salud y medio ambiente, conforme a Ley y fomentar la competitividad, las inversiones y el financiamiento para la ejecución de proyectos y obras de infraestructura de alcance e impacto regional según la Ley Orgánica de Gobiernos Regionales Ley 27867 y modificaciones;
+Que, es necesario garantizar este proceso a través de la conformación del Equipo Técnico del Presupuesto Participativo para que este cumpla con brindar soporte técnico en el desarrollo del proceso del presupuesto participativo 2010, así como la de desarrollar el trabajo de evaluación técnica a que hace referencia la reglamentación dada en este sentido;
+De conformidad con la Ley 27867 Orgánica de Gobiernos Regionales y sus modificatorias, así como el marco normativo establecido en la Ordenanza Regional Nº 001-2007-GRA/CR-AREQUIPA;
+Estando al Dictamen de Comisión N° 018-2009-GRA-CRA/CPP de la Comisión de Planeamiento y Presupuesto del Consejo Regional del Gobierno Regional de Arequipa;
+SE ORDENA:
