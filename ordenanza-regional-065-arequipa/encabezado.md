@@ -1,0 +1,13 @@
+(Se publica la Ordenanza de la referencia a solicitud del Gobierno Regional Arequipa mediante Oficio Nº 1271-2009-GRA/CR, recibido el 9 de diciembre de 2009)
+ORDENANZA REGIONAL
+Nº 065-AREQUIPA
+EL CONSEJO REGIONAL DE AREQUIPA
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, mediante Decreto Supremo Nº 023-2006-AG, se aprueba el Plan Nacional de Desarrollo Ganadero para el período 2006-2015, el cual incluye en sus estrategias la formulación de Planes Regionales de Desarrollo Ganadero, a fin de promover competitivamente esta actividad económica a nivel nacional, y al ser la ganadería en la Región Arequipa una actividad que aporta el 11% al PBI Regional.
+Que, La Ley 27867 establece que los Gobiernos Regionales tienen la atribución de fomentar el desarrollo regional sostenible, con la aplicación coherente y eficaz de las políticas e instrumentos de la descentralización y desarrollo económico, a través de planes, programas y proyectos orientados a generar condiciones que permitan el crecimiento económico armonizado, el desarrollo social equitativo, promoviendo la inversión pública, privada y garantizando el ejercicio pleno de los derechos de hombres y mujeres y la igualdad de oportunidades de sus habitantes.
+Que, teniendo en cuenta la Ley de Bases de la Descentralización, Ley Nº 27783 y el Decreto Supremo Nº 109-2006-EF de Transferencia de funciones a los Gobiernos Regionales, esta Gerencia detenta competencia para intervenir y propiciar el desarrollo de asuntos de esta naturaleza.
+Que, el proceso de elaboración de Plan fue de manera participativa a través del aporte de los agentes involucrados en talleres y entrevistas, donde se recogieron las propuestas de agentes del sector público y privado de las distintas provincias y fue validado en un taller a nivel regional el día 25 de febrero del año en curso, donde asistieron diversas entidades de la Región.
+Que, el documento final denominado “Plan de Desarrollo Ganadero de la Región Arequipa 2008-2015” fue entregado por el Consultor contratado por la Dirección General de Promoción Agraria – MINAG y la Sub Gerencia de Promoción Agraria al Gobierno Regional de Arequipa a través de la Gerencia Regional de Agricultura para su aprobación, pues establece las políticas y estrategias específicas para el sector pecuario que implica la participación directa e indirecta de diversas entidades del ámbito nacional regional y local y la estrategia de implementación y seguimiento del referido plan.
+En uso de sus atribuciones conferidas por la Ley 27867 Orgánica de Gobiernos Regionales y sus modificatorias, y la Ordenanza Nº 001-2007-AREQUIPA y Ordenanza Nº 010-2007-AREQUIPA.
+SE ORDENA:
