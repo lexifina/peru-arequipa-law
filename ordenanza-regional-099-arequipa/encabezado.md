@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 099-AREQUIPA
+EL CONSEJO REGIONAL DE AREQUIPA;
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, el proceso del presupuesto participativo es un mecanismo de participación de la sociedad civil organizada en la asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos, en el cual, además de coordinarse y concertarse anualmente la priorización de los proyectos de inversión, adicionalmente, se debe optimizar el fortalecimiento de las relaciones Estado-Sociedad.
+Que, operativamente el presupuesto participativo regional se desarrolla a través del Consejo de Coordinación Regional, el cual, es un órgano consultivo y de coordinación, el cual por Ley está conformado por un total de (14) integrantes, esto es, (05) representantes de las organizaciones de la sociedad civil, los (08) Alcaldes Provinciales y el Presidente del Gobierno Regional. Que, habiendo transcurrido el plazo de dos años previsto en la Ley, entonces, normativamente corresponde regular el proceso de elección de los señores representantes de la sociedad civil para su incorporación al Consejo de Coordinación Regional.
+Que, por otro lado, y con el único propósito de que coincida la elección de los representantes de las organizaciones de la sociedad civil por ante el Consejo de Coordinación Regional en el primer mes del año, con la periodicidad anual ordenada (enero a diciembre) del proceso del presupuesto participativo, entonces, deviene en oportuno y pertinente corregir y adecuar el mes en que venía produciéndose la mencionada elección; por lo tanto, debe prorrogarse de manera excepcional y por única vez, hasta el 31 de diciembre de 2009, el período de vigencia de los representantes elegidos con fecha 10 de junio de 2007 por ante el Consejo de Coordinación Regional.
+Que, por estas consideraciones, al amparo de lo regulado en la Ley 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053, y, el marco legislativo regional constituido por la Ordenanza Regional Nro. 001-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 055-AREQUIPA;
+SE ORDENA:
