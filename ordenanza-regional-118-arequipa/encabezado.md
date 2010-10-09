@@ -1,0 +1,8 @@
+Ordenanza Regional
+Nº 118-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, por el principio de “legalidad del procedimiento” regulado en el artículo 36 de la Ley Nº 27444 / Ley de Procedimiento Administrativo General, los procedimientos, requisitos y costos de los procesos administrativos del Gobierno Regional, se establecen y aprueban por medio de Ordenanza. Que, estos procedimientos deben ser compendiados y sistematizados en el Texto Unico de Procedimientos Administrativos (TUPA). Que, en cada trámite, sólo corresponde exigir los requisitos que sean necesarios, aporten valor y/o suministren información indispensable al objetivo del trámite, esto, en aplicación de lo regulado en el artículo 8 del Decreto Supremo Nº 079-2007-PCM.
+Que, en atención a la sustentación jurídica y técnica señalada en el Informe Nº 149-2010-GRA/GGR, el Informe Nº 345-2010-GRA/ORAJ, el Informe Nº 067-2010-GRA/OPDI, el Informe Nro 319-2010-GRA/ORAJ, el Informe Nº 278-2010-GRA/ ORAJ, y, el Informe Nº 144-2010-GRA/OPDI, y, dado que en la elaboración del TUPA, las instancias administrativas del Ejecutivo Regional han cumplido con las disposiciones reguladas en la Ley Nº 27444, la Ley Nº 29060, el Decreto Supremo Nº 079-2007-PCM, y, el Decreto Supremo Nº 062-2009-PCM; entonces, por estas consideraciones, al amparo de lo regulado en la Ley Nº 27783 / Ley de Bases de la Descentralización, la Ley Nº 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; y, en observancia del marco legislativo regional constituido por la Ordenanza Regional Nº 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 055-AREQUIPA;
+SE ORDENA:
