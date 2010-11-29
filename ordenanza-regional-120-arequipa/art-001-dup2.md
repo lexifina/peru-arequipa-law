@@ -1,0 +1,2 @@
+Artículo 1º.- Objetivo
+El procedimiento regulado por la presente Ordenanza Regional, deberá ser aplicado a todos los bienes muebles que recolectados, entregados y/o transferidos, a través de actos gratuitos, por personas naturales o personas jurídicas, públicas o privadas, al Gobierno Regional (sea a nivel de la Sede Central, y/o, a nivel de los Órganos de Línea u Órganos Desconcentrados), tengan como condición, finalidad u obligación, el que deban ser entregados y/o distribuidos en calidad de donación a favor de personas necesitadas.

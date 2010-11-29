@@ -1,0 +1,2 @@
+Artículo 3º.- Identificación de Zonas, Poblaciones o Personas Necesitadas
+La identificación de zonas, poblaciones y/o personas necesitadas o de escasos recursos, para los efectos de que sean beneficiarias con la entrega o distribución de bienes vía donación, será responsabilidad del Ejecutivo Regional, debiendo la Presidencia Regional encargar esta tarea al área, unidad, órgano, oficina, funcionario o servidor que estime más idóneo y eficaz.
