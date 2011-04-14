@@ -1,0 +1,10 @@
+Ordenanza Regional
+Nº 136-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, la Constitución Política del Perú en su artículo 68º e incisos 6 y 7 del artículo 192º establece que el Estado está obligado a promover la conservación de la diversidad biológica y de las Áreas Naturales Protegidas; y establece como competencia de los Gobiernos Regionales, dictar normas inherentes a la gestión regional y de promoción y regulación de las actividades y/o servicios en materias diferentes, entre ellas el medio ambiente;
+Que, como dispone la Ley Nº 26834, las áreas naturales protegidas son: (a) Las de administración nacional (b) Las de administración regional y (c) las de conservación privada, de esta manera se crea el Sistema Nacional de Áreas Naturales Protegidas – SINANPE, como un instrumento eficaz para la conservación de la diversidad biológica existente, estando constituido por todas las Áreas Naturales Protegidas de administración nacional y comprendidas dentro del marco del SINANPE, de esta manera; se hace necesario constituir una instancia de nivel regional que permita la conservación de Áreas Naturales Protegidas que se encuentren dentro del marco del SINANPE y también fuera del mismo y se establezcan como zonas priorizadas; de ésta manera se pueda proteger zonas de necesaria conservación dentro de la jurisdicción de la Región Arequipa hasta que las mismas se incorporen dentro del SINANPE.
+Que, la Autoridad Regional Ambiental de Arequipa, remite la presente propuesta para su aprobación que sirve de sustento a lo antes expuesto, y de esta manera al amparo de lo regulado en la Ley Nº 27783, de Bases de la Descentralización, Ley Nº 27867, Orgánica de Gobiernos Regionales, modificadas por Leyes Nº 27902, 28013, 28926, 28961, 28968 y Nº 29053, y lo dispuesto en el Ordenanza Regional Nº 001-AREQUIPA, la Ordenanza Regional Nº 010-Arequipa y la Ordenanza Regional Nº 055-AREQUIPA,
+SE ORDENA:
+Crear el Sistema Regional de Áreas Naturales Protegidas de Arequipa- SIRANP
