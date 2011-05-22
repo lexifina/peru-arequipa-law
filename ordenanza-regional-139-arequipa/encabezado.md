@@ -1,0 +1,8 @@
+Ordenanza Regional
+Nº 139-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, la Ordenanza Regional Nro. 114-AREQUIPA aprobó el Código Regional de Procedimientos Administrativos Disciplinarios y creó el Tribunal Administrativo Regional. Que, posteriormente, a través de la Ordenanza Regional Nro. 116-AREQUIPA y la Ordenanza Regional Nro. 122-AREQUIPA, se prorrogó respectivamente en (50) y (30) días calendario, la suspensión de los actos, plazos y procedimientos de impugnación por ante el Tribunal Administrativo Regional, a los efectos de implementar el funcionamiento del mismo. Que, finalmente, por medio de la Ordenanza Regional Nro. 127-AREQUIPA, se suspendió la vigencia de los artículos 65 y 66 de la Ordenanza Regional Nro. 114-AREQUIPA, para que la contratación de los integrantes del Tribunal Administrativo Regional se realice bajo la modalidad de contratación administrativa de servicios (CAS), hasta la aprobación de la modificación del Reglamento de Organización y Funciones (ROF) y del Cuadro de Asignación de Personal (CAP) del Gobierno Regional.
+Que, siendo imperativo el trámite y atención de los procedimientos de impugnación en segunda instancia administrativa, y, dado que no se ha producido la contratación de los miembros integrantes Tribunal Administrativo Regional, entonces, por estas consideraciones, al amparo de lo regulado en la Ley 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053, y, el marco legislativo regional constituido por la Ordenanza Regional Nro. 001-AREQUIPA, la Ordenanza Regional Nro. 010-AREQUIPA y la Ordenanza Regional Nro. 055-AREQUIPA;
+SE ORDENA:
