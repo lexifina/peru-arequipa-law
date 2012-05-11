@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 163-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, mediante Ordenanza Regional Nº 146-AREQUIPA, de fecha 29 de setiembre del 2011 el Consejo Regional ordenó Declarar en Proceso de Reorganización Administrativa y Reestructuración Orgánica a la Gerencia Regional de Transporte y Comunicaciones del Gobierno Regional de Arequipa, por un período de seis (06) meses, contados a partir de la vigencia de la presente Ordenanza. Asimismo se encargó a la Presidencia Regional la conformación de una Comisión encargada de llevar a cabo dicho proceso de reorganización y reestructuración orgánica.
+Que, mediante Resolución Ejecutiva 726-2011-GRA/ PR del 20 de setiembre del 2011, ratificada mediante Resolución Ejecutiva 778-2011-GRA/GR de fecha 12 de octubre del 2011, el Presidente del Gobierno Regional de Arequipa conformó la precitada comisión reorganizadora y de reestructuración orgánica de la Gerencia Regional de Transporte y Comunicaciones del Gobierno Regional de Arequipa.
+Que, mediante Informe Nº 017-2012-GRA/VPR, el Vicepresidente Regional de Arequipa informa sobre las acciones realizadas durante el período de reorganización y reestructuración, asimismo señala que, en el corto plazo de los seis meses, no se ha logrado concretar los objetivos trazados por varios motivos, concluyendo que el proceso de reorganización y reestructuración aún no ha terminado. En ese sentido, la Gerencia General del Gobierno Regional de Arequipa, mediante Informe Nº 088-2012-GRA/PR-GGR, recomienda se amplíe el plazo del proceso del Proceso de Reorganización Administrativa y Reestructuración Orgánica, a efectos de proponer, evaluar y supervisar todas las acciones y/o medidas para la reorganización y reestructuración de la Gerencia de Transportes y Comunicaciones.
+Que, al amparo de lo regulado en la Ley Nº 27783, de Bases de la Descentralización, Ley Nº 27867, Orgánica de Gobiernos Regionales y lo dispuesto en la Ordenanza Regional Nº 001-AREQUIPA, la Ordenanza Regional Nº 010-Arequipa y la Ordenanza Regional Nº 154-AREQUIPA;
+SE ORDENA:
