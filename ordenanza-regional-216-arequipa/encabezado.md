@@ -1,0 +1,10 @@
+Ordenanza Regional
+Nº 216-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, la Ley 28056 Ley del Presupuesto Participativo, su modificatoria Ley 29298 y Reglamento vigente aprobado por D S. 142-2009-EF, definen al presupuesto participativo como un proceso que fortalece las relaciones Estado – Sociedad, señalando las prioridades en cuanto acciones o proyectos de inversión que se deban implementar, conjuntamente con la participación de la sociedad organizada y generando compromisos de todos los agentes participantes para la consecución de los objetivos estratégicos del Gobierno Regional de Arequipa;
+Que, por el presupuesto participativo basado en resultados, los recursos públicos en materia de gastos de inversión, se asignan, ejecutan y evalúan en función a cambios específicos que se deben alcanzar para elevar el bienestar de la población, cuyos resultados se reflejen en mejores condiciones de vida; es por eso que los Gobiernos Regionales, deben organizar su gestión en torno a objetivos y ejes estratégicos a ser identificadas en el Plan Concertado y el Presupuesto Participativo;
+Que, si bien es cierto el procedimiento básico del presupuesto participativo está regulado en el Instructivo Nro. 001-2010-EF/76.01 aprobado por Resolución Directoral Nro. 007-2010-EF/76.01; sin embargo, por disposición expresa del primer párrafo del Capítulo II del mismo Instructivo, el proceso del presupuesto participativo debe ordenarse y realizarse tomando en cuenta la realidad territorial y organizativa de cada gobierno regional, en función a sus participantes y experiencias previas;
+Que, por estas consideraciones y, siendo que corresponde al Consejo Regional la aprobación antes referida, al amparo de la Ley 27783 Ley de Bases de Descentralización, la Ley 27867 Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; y en observancia del marco legislativo regional constituido por la Ordenanza Regional Nro. 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 154-AREQUIPA.
+SE ORDENA:
