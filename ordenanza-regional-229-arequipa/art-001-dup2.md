@@ -1,0 +1,2 @@
+Artículo 1º.- Creación del Consejo Regional de la Mujer
+Crear el Consejo Regional de la Mujer Arequipa -CREM AQP, como un espacio de concertación, consultivo y de participación de las organizaciones sociales de mujeres, instituciones públicas y privadas y otras organizaciones de la sociedad civil; y, de coordinación del Gobierno Regional de Arequipa, a través de la Presidencia Regional, en materia de equidad de género e igualdad de oportunidades entre mujeres y hombres.
