@@ -1,0 +1,2 @@
+Artículo 10°.-
+ENCÁRGUESE al Área de Gestión Cultural y Social del Ejecutivo Regional la elaboración y actualización del Registro Regional General y del Registro Regional Juvenil de Voluntarios y Voluntarias, debiendo establecer los requisitos mínimos para acceder a la inscripción. Asimismo, el cumplimiento y la elaboración de los mecanismos y recursos necesarios para la implementación y gestión de la presente norma.
