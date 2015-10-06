@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 314-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, es función específica del Gobierno Regional en materia de desarrollo social e igualdad de oportunidades, de conformidad con el artículo 60º: ((a)) Formular, aprobar y evaluar las políticas en materia de desarrollo social e igualdad de oportunidades de su competencia, ((b)) Promover la participación ciudadana en la planificación, administración y vigilancia de los programas de desarrollo e inversión social en sus diversas modalidades, brindando la asesoría y apoyo que requieran las organizaciones de bases involucradas; y ((c)) Formular y ejecutar políticas y acciones concretas orientando para que la asistencia social se torne productiva para la región con protección y apoyo a las mujeres;
+Que, mediante Ordenanza Regional Nº 028 – AREQUIPA, modificada por Ordenanza Regional Nº 229 – AREQUIPA, se creó el “Consejo Regional de la Mujer – CREM” como un espacio de concertación, consultivo y de participación de las organizaciones sociales de mujeres, privadas, públicas y otras con la finalidad de contribuir al logro del desarrollo con igualdad de género en distintos ámbitos, garantizando de esta manera el respecto y pleno ejercicio de los derechos humanos de las mujeres;
+Que, mediante Única Disposición Complementaria de la Ordenanza Regional Nº 229-Arequipa, se encargó al Consejo Regional de la Mujer – CREM la elaboración del Reglamento de Funcionamiento Interno a efectos de ser aprobado por el Consejo Regional;
+Que, mediante Informe Nº 245-2015-GRA/PR-AGCYS el Ing. Julio Flores Anco, Jefe de la Ex Área de Gestión Cultural y Social remite al Consejo Regional el Informe Nº 007-215/GRA/AGCyS-CREM de la responsable del CREM, adjuntando la propuesta de reglamento, la misma que fue trabajada y consensuada por los miembro integrantes;
+Que, asimismo, siendo que mediante Ordenanza Regional Nº 307 – AREQUIPA, de fecha 09 de abril de 2015, se creó la Gerencia de Desarrollo e Inclusión Social, la misma que tiene a cargo las funciones en materia social; luego entonces, deviene en importante modificar el artículo 3º y 7º de la Ordenanza Regional Nº 229 – AREQUIPA, por cuanto, se consideró en ese entonces a la Ex Área de Gestión Cultural y Social
+Que, la Comisión de la Mujer, Niño, Adolescente, Personas con Discapacidad y Adulto Mayor del Consejo Regional ha revisado y analizado el Reglamento Interno propuesto del CREM, por lo que, pone a consideración del Pleno del Consejo el proyecto de Reglamento Interno de Funcionamiento del CREM, para su debate y correspondiente aprobación, de ser el caso;
+Que, por tanto, conforme al literal a) del artículo 15º de la Ley Orgánica de Gobiernos Regionales es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, entonces, por estas consideraciones, al amparo de la Ley N° 27783 / Ley de Bases de la Descentralización; Ley N° 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; exonerado el trámite de comisión y en observancia del marco legislativo regional constituido por la Ordenanza Regional Nro. 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 154-AREQUIPA,
+Se ha aprobado la siguiente Ordenanza:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO INTERNO DE FUNCIONAMIENTO DEL
+CREM Y MODIFICA LA ORDENANZA REGIONAL
+Nº 229-AREQUIPA
