@@ -1,0 +1,18 @@
+Ordenanza Regional
+Nº 327-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, conforme al artículo 60º de la Ley Orgánica de Gobiernos Regionales – Ley Nº 27687 – prescribe que es función específica de los Gobiernos Regionales en materia de desarrollo social e igualdad de oportunidades formular, aprobar y evaluar las políticas en dicha materia en concordancia con las políticas generales del gobierno nacional;
+Que, mediante la Ley Nº 28803 – Ley de Las Personas Adultos Mayores – se garantiza los mecanismos legales para el ejercicio pleno de los derechos reconocidos en la Constitución Política y los Tratados Internacionales vigentes de las Personas Adultas Mayores para mejorar su calidad de vida y que se integren plenamente al desarrollo social, económico, político y cultural, contribuyendo al respeto de su dignidad;
+Que, asimismo, en el artículo 9º de mismo cuerpo normativo se establece que la persona adulta mayor es sujeto prioritario de la atención integral en materia de salud, así como en los casos de emergencia médica o en los que se presenten enfermedades de carácter terminal;
+Que, mediante Decreto Supremo Nº 011-2011-MIMDES se aprobó la Política Nacional para las Personas Adultas Mayores, con la finalidad de promover y proteger los derechos de las personas adultas mayores y otorgar un tratamiento especial a este sector de la población, considerando su condición de vulnerabilidad biológica y social;
+Que, dentro de ese marco normativo se elaboró el nuevo “Plan Nacional para las Personas Adultas Mayores 2013 – 2017”, mediante Decreto Supremo Nº 002-2013-MIMP, con le objeto de implementar acciones coordinadas entre las organizaciones gubernamentales y la sociedad civil a fin de aumentar la participación e integración social del adulto mayor, mediante el incremento de la cobertura y calidad del servicio de salud, asistencia alimentaria y nutricional, así como la generación de oportunidades para una vida armónica con su familia y comunidad, en una perspectiva de envejecimiento activo, productivo y saludable;
+Que, mediante Oficio Nº 354-2015-GRA/GRIDS la Gerencia Regional de Desarrollo e Inclusión Social, remite el Informe Nº 061-2015-GRA/GRDIS/SGMPV, mediante el cual solicita la creación del consejo regional para las personas adultas mayores;
+Que, en ese sentido, deviene en importante también promover un espacio de concertación de políticas regionales que permita la participación de los representantes de la sociedad civil de las personas adultas mayores; con la finalidad de fortalecer e incentivar la solidaridad entre las generaciones que la integran para la formulación, implementación y evaluación de programas sociales;
+Que, por tanto, conforme al literal a) del artículo 15º de la Ley Orgánica de Gobiernos Regionales es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, entonces, por estas consideraciones, al amparo de la Ley Nº 27783 / Ley de Bases de la Descentralización; Ley Nº 27867 / Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; exonerado el trámite de comisión y en observancia del marco legislativo regional constituido por la Ordenanza Regional Nro. 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional 010-AREQUIPA y la Ordenanza Regional 154-AREQUIPA;
+Se ha aprobado la siguiente Ordenanza:
+ORDENANZA REGIONAL QUE DECLARA DE INTERES PRIORITARIO REGIONAL LA ATENCIÓN
+INTEGRAL DEL ADULTO MAYOR Y APRUEBA
+LA CREACIÓN DEL CONSEJO REGIONAL PARA LAS PERSONAS ADULTAS MAYORES
