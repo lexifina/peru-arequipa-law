@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 396-AREQUIPA
+El Consejo Regional de Arequipa
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+En ejercicio de las atribuciones que le confieren la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, sus modificatorias y el Reglamento Interno del Consejo Regional;
+SE HA APROBADO LA SIGUIENTE ORDENANZA:
+ORDENANZA REGIONAL QUE MODIFICA ARTICULO 2 DE LA ORDENANZA REGIONAL N° 377-AREQUIPA, QUE INCORPORA A LA
+MESA DE CONCERTACION PARA LA
+LUCHA CONTRA LA POBREZA AL
+COMITE TECNICO MULTISECTORIAL DE EVALUACION, IMPLEMENTACION Y MONITORERO
