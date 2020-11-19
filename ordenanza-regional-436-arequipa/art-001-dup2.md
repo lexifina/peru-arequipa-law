@@ -1,0 +1,2 @@
+Artículo 1°.-
+DECLARAR de prioridad regional la atención eficiente, suficiente y oportuna de la salud mental de la población de la Región Arequipa, enfocada en la prevención y tratamiento integral de dicha problemática, por su relevancia en el libre desarrollo y bienestar de las personas, asimismo con el diagnóstico, tratamiento y rehabilitación de los problemas de salud mental y adicciones a través de acciones implementadas por el gobierno Regional y Gobiernos Locales de la Región de Arequipa.
