@@ -1,0 +1,2 @@
+Articulo 4°.-
+ESTABLECER que la presente Ordenanza Regional entrará en vigencia a partir del día siguiente de su publicación en el Diario Oficial “El Peruano”.
