@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 456-AREQUIPA
+El Consejo Regional de Arequipa Ha aprobado la Ordenanza Regional siguiente:
+Que, entonces por estas consideraciones, al amparo de la Ley Nº 27783, Ley de Bases de la Descentralización; Ley Nº 27867 Ley Orgánica de Gobiernos Regionales, modificada por las Leyes 27902, 28013, 28926, 28961, 28968, 29053; Exonerado el trámite de comisión y en observancia del marco legislativo regional constituido por la Ordenanza Regional Nº 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional Nº 010-AREQUIPA y la Ordenanza Regional Nº 154-AREQUIPA.
+SE HA APROBADO LA SIGUIENTE ORDENANZA:
+MODIFICAR LA ORDENANZA REGIONAL N°411-AREQUIPA QUE APRUEBA EL TEXTO ÚNICO DE PROCEDIMIENTOS ADMINISTRATIVOS – TUPA
+DEL GOBIERNO REGIONAL DE AREQUIPA,
+INCORPORANDO 10 PROCEDIMIENTOS
+ADMINISTRATIVOS ESTANDARIZADOS
+APROBADOS MEDIANTE DECRETO SUPREMO
+N°044-2021-PCM, ADEMAS DE 28
+PROCEDIMIENTOS ADMINISTRATIVOS
+EN MATERIA FORESTAL Y DE FAUNA SILVESTRE,
+DE LA GERENCIA REGIONAL
+DE AGRICULTURA
