@@ -1,0 +1,12 @@
+Artículo 5°.-
+DISPONER la publicación de la presente Ordenanza Regional en el Diario Oficial “El Peruano”, en el Diario encargado de Avisos Judiciales de la Región y en la página web del Gobierno Regional de Arequipa, de conformidad con lo regulado en el artículo 9 del D.S. N° 001-2009-JUS.
+Comuníquese al señor Gobernador del Gobierno Regional de Arequipa para su promulgación.
+En Arequipa, a los cinco días del mes de octubre del 2021.
+SANTIAGO NEYRA ALMENARA
+Presidente del Consejo Regional de Arequipa
+POR TANTO:
+Mando se publique y cumpla
+Dada en la Sede Central del Gobierno Regional de Arequipa, a los catorce días del mes de octubre del dos mil veintiuno.
+ELMER CÁCERES LLICA
+Gobernador del Gobierno
+Regional de Arequipa
