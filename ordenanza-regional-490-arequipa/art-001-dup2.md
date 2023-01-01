@@ -1,0 +1,3 @@
+Artículo 1.- FUERZA NORMATIVA, ÁMBITO DE APLICACIÓN Y OBJETO
+El presente reglamento tiene fuerza de Ley en la jurisdicción territorial del Gobierno Regional de Arequipa. Precisa las competencias y funciones del Consejo Regional de Arequipa y de las Comisiones, define su organización y funcionamiento, establece los derechos y deberes de los Consejeros Regionales, así como las sanciones aplicables a estos, regula los procedimientos normativos y fiscalizadores, como también el desarrollo de las sesiones.
+Los funcionarios y servidores civiles dependientes administrativamente del Gobierno Regional de Arequipa, sin excepción alguna, quedan obligados a respetar y acatar las disposiciones establecidas en el presente Reglamento.
