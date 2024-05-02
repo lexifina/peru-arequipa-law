@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 506-AREQUIPA
+Arequipa, 10 de octubre de 2023.
+EL CONSEJO REGIONAL DE AREQUIPA
+Al amparo de la Ley 27867, Ley Orgánica de Gobiernos Regionales, modificatorias, aprobadas mediante Ordenanza Regional Nº 154–Arequipa. El Consejo regional de Arequipa, en Sesión Ordinaria de fecha diez de octubre del año dos mil veintitrés, ha
+HA APROBADO LA SIGUIENTE:
+ORDENANZA REGIONAL QUE DECLARA DE INTERÉS PÚBLICO REGIONAL EL
+RECONOCIMIENTO Y PROMOCIÓN DE LA LENGUA
+DE SEÑAS PERUANA, COMO LENGUA DE LAS PERSONAS CON DISCAPACIDAD AUDITIVA O PERSONAS SORDAS, APROBÁNDOSE NORMAS PARA ALCANZAR LOS OBJETIVOS PROPUESTOS
+POR LA LEY N° 29535
