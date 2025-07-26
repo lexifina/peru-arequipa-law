@@ -1,0 +1,3 @@
+Artículo 3-A°.- DE LA RECOPILACIÓN DE INFORMACIÓN
+La adecuación y reglamentación de la recopilación de los datos nominales en materia de discapacidad de los bienes y servicios que brindan los gobiernos locales a las personas con discapacidad o presunta discapacidad, y que posteriormente se remiten al CONADIS, se encuentran bajo la responsabilidad de la Subgerencia de la Mujer y Poblaciones Vulnerables de la Gerencia Regional de Desarrollo e Inclusión Social.
+Ello de conformidad con las disposiciones y el marco regulatorio que emita a tal efecto el CONADIS, en su condición de ente rector de la materia.

@@ -1,0 +1,2 @@
+Artículo 3-B°.- DE LA DIFUSIÓN, APROBACIÓN, INSCRIPCIÓN Y ENTREGA DE CARNÉS
+La difusión, así como el trámite de aprobación, inscripción y entrega de Carnés solicitados, se encuentran bajo la responsabilidad de la Subgerencia de Mujer y Poblaciones Vulnerables de la Gerencia Regional de Desarrollo e Inclusión Social, de conformidad con las disposiciones y el marco regulatorio que emita a tal efecto el CONADIS, en su condición de ente rector de la materia.
