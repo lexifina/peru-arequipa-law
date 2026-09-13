@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 559-AREQUIPA
+El Consejo Regional del Gobierno Regional de Arequipa, en Sesión Ordinaria de Consejo ha aprobado la Ordenanza Regional siguiente:
+POR CUANTO:
+Que, por las consideraciones expuestas en la exposición de motivos, y al amparo de la Ley Nº 27783, Ley de Bases de la Descentralización; la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, incluidas las Leyes Nº 27902, 28013, 28926, 28961, 28968, 29053 y 31433; y en observancia del marco normativo regional constituido por la Ordenanza Regional Nº 001-2007-GRA/CR-AREQUIPA, la Ordenanza Regional Nº 508-AREQUIPA y la Ordenanza Regional Nº 154-AREQUIPA y sus modificatorias aprobadas mediante Ordenanzas Regionales Nº 342-AREQUIPA, Nº 392-AREQUIPA, Nº 393-AREQUIPA y Nº 403-AREQUIPA.
+Que, es política del Gobierno Regional de Arequipa promover el desarrollo económico local y la competitividad turística; sin embargo, los informes técnicos de la GERCETUR, Informe Nº 04-2026-GRA-GRCET-SGT-CIBC y Nº 001-2026-GRCER-UF-JIMSA, advierten que solo el 10% de los distritos de la región cuentan con un Plan de Desarrollo Turístico Local (PDTL) aprobado, lo que genera una brecha crítica en la planificación y dificulta el financiamiento de proyectos bajo el marco de Invierte. pe.
+Que, para garantizar la eficiencia del gasto público, es necesario establecer requisitos técnicos y administrativos que aseguren que la inversión en turismo responda a una estrategia regional y nacional articulada con el PERTUR y el PENTUR.
+Que, en ese sentido, resulta necesario fortalecer los instrumentos de planificación técnica que permitan dinamizar la economía local y asegurar una inversión pública eficiente en el sector turismo, alineada a las directrices del ente rector MINCETUR; se ha aprobado la siguiente:
+ORDENANZA REGIONAL QUE APRUEBA LOS “LINEAMIENTOS DE ARTICULACIÓN Y PRIORIZACIÓN DE LA INVERSIÓN PÚBLICA TURÍSTICA EN LA REGIÓN AREQUIPA PARA LA FORMULACIÓN Y ACTUALIZACIÓN DE LOS PLANES DE DESARROLLO TURÍSTICO LOCAL (PDTL) EN LAS PROVINCIAS DE LA REGIÓN
+AREQUIPA”
