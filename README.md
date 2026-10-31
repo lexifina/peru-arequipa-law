@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-215 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+246 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -227,6 +227,37 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-201-arequipa/` | Ordenanza Regional N° 201-AREQUIPA: Aprueban Reglamento de Organización y Funciones del Hospital Central de Majes | in force 10 May 2013 |
 | `ordenanza-regional-206-arequipa/` | Ordenanza Regional N° 206-AREQUIPA: Modifican la Ordenanza Regional N° 190-AREQUIPA | in force 7 March 2013 |
 | `ordenanza-regional-205-arequipa/` | Ordenanza Regional N° 205-AREQUIPA: Aprueban Reglamento para la Elección de Representantes de Gremios de la Micro y Pequeña Empresa del Sector Público distinto … | in force 17 February 2013 |
+| `ordenanza-regional-459-arequipa/` | Ordenanza Regional N° 459-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa; incorporando… | in force 24 July 2021 |
+| `ordenanza-regional-460-arequipa/` | Ordenanza Regional N° 460-AREQUIPA: Declaran de Interés Regional la Priorización de la Demarcación Territorial de los Limites de la Región Arequipa | in force 24 July 2021 |
+| `ordenanza-regional-458-arequipa/` | Ordenanza Regional N° 458-AREQUIPA: Aprueban la modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa | in force 28 June 2021 |
+| `ordenanza-regional-455-arequipa/` | Ordenanza Regional N° 455-AREQUIPA: Aprueban la Creación del Registro Regional de Personas con Discapacidad del Gobierno Regional de Arequipa | in force 25 June 2021 |
+| `ordenanza-regional-456-arequipa/` | Ordenanza Regional N° 456-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos- TUPA del Gobierno Regional de Arequipa aprobado con… | in force 6 June 2021 |
+| `ordenanza-regional-450-arequipa/` | Ordenanza Regional N° 450-AREQUIPA: Ordenanza Regional que fortalece la función fiscalizadora del Consejo Regional respecto de los contratos de ejecución de obr… | in force 4 June 2021 |
+| `ordenanza-regional-452-arequipa/` | Ordenanza Regional N° 452-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa aprobado con … | in force 29 May 2021 |
+| `ordenanza-regional-441-arequipa/` | Ordenanza Regional N° 441-AREQUIPA: Ordenanza Regional que dispone la reserva e independización de 3,008.5781 hectáreas del predio denominado Pampa grande para … | in force 29 January 2021 |
+| `ordenanza-regional-445-arequipa/` | Ordenanza Regional N° 445-AREQUIPA: Ordenanza Regional que crea el “Registro Regional de Personas Seleccionadoras Manuales de Oro de la Región Arequipa” | in force 21 January 2021 |
+| `ordenanza-regional-443-arequipa/` | Ordenanza Regional N° 443-AREQUIPA: Ordenanza Regional que dicta medidas excepcionales para solucionar el problema social de los parceleros que transfiriendo su… | in force 21 January 2021 |
+| `ordenanza-regional-436-arequipa/` | Ordenanza Regional N° 436-AREQUIPA: Modifican la Ordenanza Regional Nº 288 - AREQUIPA que declara de “PRIORIDAD REGIONAL LA ATENCIÓN DE LA SALUD MENTAL DE LA PO… | in force 19 November 2020 |
+| `ordenanza-regional-434-arequipa/` | Ordenanza Regional N° 434-AREQUIPA: Aprueban la modificación de la creación de la Comisión Ambiental Regional de Arequipa | in force 12 November 2020 |
+| `ordenanza-regional-431-arequipa/` | Ordenanza Regional N° 431-AREQUIPA: Aprueban Reglamento del Procedimiento Administrativo Sancionador en Materia Ambiental de la Autoridad Regional Ambiental del… | in force 12 November 2020 |
+| `ordenanza-regional-434-arequipa-2020/` | Ordenanza Regional N° 434-AREQUIPA (2020): Ordenanza Regional que aprueba la modificación de la creación de la Comisión Ambiental Regional de Arequipa | in force 9 November 2020 |
+| `ordenanza-regional-428-arequipa/` | Ordenanza Regional N° 428-AREQUIPA: Ordenanza Regional de Igualdad y no Discriminación en la Región Arequipa | in force 28 September 2020 |
+| `ordenanza-regional-422-arequipa/` | Ordenanza Regional N° 422-AREQUIPA: Ordenanza que aprueba el Proyecto de Reglamento y Plan Anual de Trabajo del Proceso del Presupuesto Participativo Basados en… | in force 9 March 2020 |
+| `ordenanza-regional-416-arequipa/` | Ordenanza Regional N° 416-AREQUIPA: Ordenanza que crea el Comité Regional de Protección y Bienestar Animal de la Región Arequipa | in force 1 March 2020 |
+| `ordenanza-regional-419-arequipa/` | Ordenanza Regional N° 419-AREQUIPA: Declaran de interés público regional la conservación y protección de varios ecosistemas frágiles existentes en la Región Are… | in force 1 March 2020 |
+| `ordenanza-regional-413-arequipa/` | Ordenanza Regional N° 413-AREQUIPA: Modifican e incorporan diversos artículos en el Reglamento de Organización y Funciones de la Autoridad Regional Ambiental | in force 20 October 2019 |
+| `ordenanza-regional-409-arequipa/` | Ordenanza Regional N° 409-AREQUIPA: Ordenanza Regional que aprueba la declaración de Emergencia Administrativa de la Gerencia Regional de Transportes y Comunica… | in force 4 July 2019 |
+| `ordenanza-regional-407-arequipa/` | Ordenanza Regional N° 407-AREQUIPA: Ordenanza Regional que ratifica Plan Regional de Seguridad Ciudadana - 2019 | in force 7 June 2019 |
+| `ordenanza-regional-403-arequipa/` | Ordenanza Regional N° 403-AREQUIPA: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional | in force 19 April 2019 |
+| `ordenanza-regional-402-arequipa/` | Ordenanza Regional N° 402-AREQUIPA: Ordenanza Regional que crea el Consejo Regional de la Juventud de la Región Arequipa - COREJU | in force 23 December 2018 |
+| `ordenanza-regional-393-arequipa/` | Ordenanza Regional N° 393-AREQUIPA: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional aprobado mediante Ordenanza Regional N° 154 -AREQ… | in force 14 June 2018 |
+| `ordenanza-regional-395-arequipa/` | Ordenanza Regional N° 395-AREQUIPA: Ordenanza Regional que aprueba el Reglamento del Proceso de Presupuesto Participativo del Gobierno Regional de Arequipa para… | in force 10 June 2018 |
+| `ordenanza-regional-382-arequipa/` | Ordenanza Regional N° 382-AREQUIPA: Crean el “Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Arequipa - CCONNA” | in force 23 January 2018 |
+| `ordenanza-regional-383-arequipa/` | Ordenanza Regional N° 383-AREQUIPA: Aprueban el “Plan Regional de Acción por la Infancia y la Adolescencia PRAIA 2017 - 2021” | in force 23 January 2018 |
+| `ordenanza-regional-328-arequipa/` | Ordenanza Regional N° 328-AREQUIPA: Aprueban medidas para la inclusión al desarrollo de las personas con discapacidad en el Gobierno Regional de Arequipa | in force 10 January 2016 |
+| `ordenanza-regional-310-arequipa/` | Ordenanza Regional N° 310-AREQUIPA: Ordenanza Regional que establece normas para la identificación y empadronamiento de damnificados de los valles de Querque, L… | in force 26 June 2015 |
+| `ordenanza-regional-306-arequipa/` | Ordenanza Regional N° 306-AREQUIPA: Aprueban Plan Regional de Acuicultura de la Región Arequipa 2015-2024 | in force 23 April 2015 |
+| `ordenanza-regional-307-arequipa/` | Ordenanza Regional N° 307-AREQUIPA: Modifican el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Arequipa | in force 23 April 2015 |
 
 ## Source
 

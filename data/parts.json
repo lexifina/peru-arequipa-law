@@ -269,6 +269,42 @@
     "ordenanza-regional-236-arequipa"
    ],
    "sha256": "27945ddf7cae1fb4c5812cfb55359698e144c9ec8bf5cceebc026d4dd40d9fe0"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-306-arequipa",
+    "ordenanza-regional-307-arequipa",
+    "ordenanza-regional-310-arequipa",
+    "ordenanza-regional-328-arequipa",
+    "ordenanza-regional-382-arequipa",
+    "ordenanza-regional-383-arequipa",
+    "ordenanza-regional-393-arequipa",
+    "ordenanza-regional-395-arequipa",
+    "ordenanza-regional-402-arequipa",
+    "ordenanza-regional-403-arequipa",
+    "ordenanza-regional-407-arequipa",
+    "ordenanza-regional-409-arequipa",
+    "ordenanza-regional-413-arequipa",
+    "ordenanza-regional-416-arequipa",
+    "ordenanza-regional-419-arequipa",
+    "ordenanza-regional-422-arequipa",
+    "ordenanza-regional-428-arequipa",
+    "ordenanza-regional-431-arequipa",
+    "ordenanza-regional-434-arequipa",
+    "ordenanza-regional-434-arequipa-2020",
+    "ordenanza-regional-436-arequipa",
+    "ordenanza-regional-441-arequipa",
+    "ordenanza-regional-443-arequipa",
+    "ordenanza-regional-445-arequipa",
+    "ordenanza-regional-450-arequipa",
+    "ordenanza-regional-452-arequipa",
+    "ordenanza-regional-455-arequipa",
+    "ordenanza-regional-456-arequipa",
+    "ordenanza-regional-458-arequipa",
+    "ordenanza-regional-459-arequipa",
+    "ordenanza-regional-460-arequipa"
+   ],
+   "sha256": "86fb3f8c40a338ad42daabcdf33b3ef1e530f7cec919e73bffdff257806d0eb6"
   }
  },
  "schema": 1
