@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-372 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+374 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -384,6 +384,8 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-084-arequipa/` | Ordenanza Regional N° 084-AREQUIPA: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Arequipa | in force 27 June 2009 |
 | `ordenanza-regional-081-arequipa/` | Ordenanza Regional N° 081-AREQUIPA: Declaran de interés público regional la optimización de resultados productivos e indicadores de rendimiento de los recursos … | in force 27 May 2009 |
 | `ordenanza-regional-080-arequipa/` | Ordenanza Regional N° 080-AREQUIPA: Dictan disposiciones para la lucha contra la corrupción en la Región Arequipa | in force 17 May 2009 |
+| `ordenanza-regional-079-arequipa/` | Ordenanza Regional N° 079-AREQUIPA: Constituyen Mesa de Lucha Contra la Corrupción en la Región Arequipa | in force 17 May 2009 |
+| `ordenanza-regional-075-arequipa/` | Ordenanza Regional N° 075-AREQUIPA: Aprueban Ordenanza para la Identificación de la propiedad y uso de los terrenos ribereños ganados a los cauces de los ríos, … | in force 14 May 2009 |
 
 ## Source
 

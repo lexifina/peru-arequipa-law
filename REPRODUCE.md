@@ -386,20 +386,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-084-arequipa` | Ordenanza Regional N° 084-AREQUIPA: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Arequipa | 1 | 2009-06-27 to 2009-06-27 |
 | `ordenanza-regional-081-arequipa` | Ordenanza Regional N° 081-AREQUIPA: Declaran de interés público regional la optimización de resultados productivos e indicadores de rendimiento de los recursos naturales y económicos asignados para el Proyecto Especial Majes Siguas - Primera Etapa | 1 | 2009-05-27 to 2009-05-27 |
 | `ordenanza-regional-080-arequipa` | Ordenanza Regional N° 080-AREQUIPA: Dictan disposiciones para la lucha contra la corrupción en la Región Arequipa | 1 | 2009-05-17 to 2009-05-17 |
+| `ordenanza-regional-079-arequipa` | Ordenanza Regional N° 079-AREQUIPA: Constituyen Mesa de Lucha Contra la Corrupción en la Región Arequipa | 1 | 2009-05-17 to 2009-05-17 |
+| `ordenanza-regional-075-arequipa` | Ordenanza Regional N° 075-AREQUIPA: Aprueban Ordenanza para la Identificación de la propiedad y uso de los terrenos ribereños ganados a los cauces de los ríos, producto de la construcción y/o mantenimiento de defensas ribereñas | 1 | 2009-05-14 to 2009-05-14 |
 
-The build made 372 commits:
+The build made 374 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 372 | first version of an act |
+| 374 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 372 laws in the record.
-- 744 tags.
+- 374 laws in the record.
+- 748 tags.
 
 ## Dates
 
@@ -411,7 +413,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `06fb17c996c4602d57e62267ab9ad424110b4bca0a55b61bfd8ff612706698bf` (3469877 bytes).
+- Corpus: sha256 `c5cfca0aa4193185a2412ef342063ae6bd4a919e865faa8d39e863194d890c71` (3506610 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

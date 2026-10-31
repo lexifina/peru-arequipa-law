@@ -446,6 +446,13 @@
     "ordenanza-regional-141-arequipa"
    ],
    "sha256": "f1447bf55bb68733edc2f0b3d67a7788fa6a014d3a14f07b2d4de11b247b321d"
+  },
+  "33-runner-05.json": {
+   "acts": [
+    "ordenanza-regional-075-arequipa",
+    "ordenanza-regional-079-arequipa"
+   ],
+   "sha256": "8223101bf30e8b8ec2d6fea89f29cbef98315069131d6c388be56fcb88bd3369"
   }
  },
  "schema": 1

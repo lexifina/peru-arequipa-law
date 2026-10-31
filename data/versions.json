@@ -5208,6 +5208,34 @@
      "sha256": "8d0effaca0a93da3652ca8cd5091adbec1553d3e1fe4b55064a62622f734cd90"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-079-arequipa",
+   "short": "Ordenanza Regional N° 079-AREQUIPA",
+   "title": "Ordenanza Regional N° 079-AREQUIPA: Constituyen Mesa de Lucha Contra la Corrupción en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/347926-1",
+   "versions": [
+    {
+     "from": "2009-05-17",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9Zmz-1Nu4vo8G4b1QWZg4P/*/347926-1.pdf",
+     "sha256": "7a516db83c3f2fd90a556f6f69f93d7e21f50515e60637cfdf3553dabde533fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-075-arequipa",
+   "short": "Ordenanza Regional N° 075-AREQUIPA",
+   "title": "Ordenanza Regional N° 075-AREQUIPA: Aprueban Ordenanza para la Identificación de la propiedad y uso de los terrenos ribereños ganados a los cauces de los ríos, producto de la construcción y/o mantenimiento de defensas ribereñas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/346305-1",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 16,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9TQmgi_KqKi98pKOkWNqRb/*/346305-1.pdf",
+     "sha256": "475464d9decf9acc3906848b7901e5e3f5edfb096629e099ada727b60efd6a75"
+    }
+   ]
   }
  ]
 }
