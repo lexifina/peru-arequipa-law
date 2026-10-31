@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-246 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+289 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -258,6 +258,49 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-310-arequipa/` | Ordenanza Regional N° 310-AREQUIPA: Ordenanza Regional que establece normas para la identificación y empadronamiento de damnificados de los valles de Querque, L… | in force 26 June 2015 |
 | `ordenanza-regional-306-arequipa/` | Ordenanza Regional N° 306-AREQUIPA: Aprueban Plan Regional de Acuicultura de la Región Arequipa 2015-2024 | in force 23 April 2015 |
 | `ordenanza-regional-307-arequipa/` | Ordenanza Regional N° 307-AREQUIPA: Modifican el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Arequipa | in force 23 April 2015 |
+| `ordenanza-regional-305-arequipa/` | Ordenanza Regional N° 305-AREQUIPA: Ordenanza Regional que aprueba el Reglamento para el Proceso del Presupuesto Participativo - 2016 del Gobierno Regional de A… | in force 28 March 2015 |
+| `ordenanza-regional-303-arequipa/` | Ordenanza Regional N° 303-AREQUIPA: Ordenanza Regional que suspende el Proceso de Reorganización y Reestructuración del Sector Salud dispuesto por Ordenanza Reg… | in force 28 March 2015 |
+| `ordenanza-regional-300-arequipa/` | Ordenanza Regional N° 300-AREQUIPA: Modifican el Texto Único de Procedimientos Administrativos del Gobierno Regional de Arequipa, anulando el Procedimiento Admi… | in force 28 March 2015 |
+| `ordenanza-regional-257-arequipa/` | Ordenanza Regional N° 257-AREQUIPA: Ordenanza que promueve una atención integral de calidad y calidez a niños, niñas y adolescentes como sujetos de derechos en … | in force 31 December 2013 |
+| `ordenanza-regional-254-arequipa/` | Ordenanza Regional N° 254-AREQUIPA: Declaran de necesidad e interés público regional  el Proyecto  "Expansión de la Unidad de Producción Cerro Verde". | in force 31 December 2013 |
+| `ordenanza-regional-256-arequipa/` | Ordenanza Regional N° 256-AREQUIPA: Derogan la Ordenanza N° 032-AREQUIPA., que establece criterios o lineamientos de carácter regional para el aprovechamiento s… | in force 31 December 2013 |
+| `ordenanza-regional-252-arequipa/` | Ordenanza Regional N° 252-AREQUIPA: Crean el Comité Científico - Técnico para la Gestión de Riesgos Volcánicos de la Región Arequipa | in force 6 December 2013 |
+| `ordenanza-regional-251-arequipa/` | Ordenanza Regional N° 251-AREQUIPA: Aprueban medidas complementarias para el ordenamiento de la pesca del recurso "camarón de río" en las cuencas hídricas camar… | in force 6 December 2013 |
+| `ordenanza-regional-250-arequipa/` | Ordenanza Regional N° 250-AREQUIPA: Aprueban Estrategias Regionales para una alimentación saludable en las instituciones educativas y hogares de la Región Arequ… | in force 26 November 2013 |
+| `ordenanza-regional-248-arequipa/` | Ordenanza Regional N° 248-AREQUIPA: Crean la Oficina Regional de Atención a la Persona con Discapacidad - OREDIS | in force 24 November 2013 |
+| `ordenanza-regional-246-arequipa/` | Ordenanza Regional N° 246-AREQUIPA: Aprueban Ordenanza para el uso del lenguaje inclusivo sensible al género en la administración pública | in force 14 October 2013 |
+| `ordenanza-regional-244-arequipa/` | Ordenanza Regional N° 244-AREQUIPA: Ordenanza para aprender en la escuela a relacionarnos con igualdad y equidad | in force 24 September 2013 |
+| `ordenanza-regional-245-arequipa/` | Ordenanza Regional N° 245-AREQUIPA: Aprueban "Reglamento para la Administración y Mantenimiento de la Maquinaria Pesada Asignada a la Gerencia Regional de Agric… | in force 24 September 2013 |
+| `ordenanza-regional-241-arequipa/` | Ordenanza Regional N° 241-AREQUIPA: Establecen requisito para el cumplimiento del "Cese por Causal de Límite de Edad, dispuesto por la Ley N° 29944" de la Carre… | in force 31 August 2013 |
+| `ordenanza-regional-242-arequipa/` | Ordenanza Regional N° 242-AREQUIPA: Modifican la Ordenanza N° 220-AREQUIPA referente al servicio de transporte interprovincial en la Región Arequipa | in force 31 August 2013 |
+| `ordenanza-regional-239-arequipa/` | Ordenanza Regional N° 239-AREQUIPA: Modifican la Ordenanza Regional N° 101-AREQUIPA que aprueba el Reglamento Regional Complementario al Reglamento Nacional de … | in force 22 August 2013 |
+| `ordenanza-regional-235-arequipa/` | Ordenanza Regional N° 235-AREQUIPA: Modifican el Código Regional de Procedimientos Administrativos Disciplinarios. | in force 4 August 2013 |
+| `ordenanza-regional-234-arequipa/` | Ordenanza Regional N° 234-AREQUIPA: Modifican el Reglamento para el otorgamiento de subvenciones sociales por parte del Gobierno Regional de Arequipa | in force 4 August 2013 |
+| `ordenanza-regional-231-arequipa/` | Ordenanza Regional N° 231-AREQUIPA: Institucionalizan el Programa Regional de Voluntariado y crean el Registro Regional de Voluntarios en la Región Arequipa | in force 12 July 2013 |
+| `ordenanza-regional-223-arequipa/` | Ordenanza Regional N° 223-AREQUIPA: Aprueban Cuadro para Asignación de Personal - CAP de la Gerencia Regional de Trabajo y Promoción del Empleo del Gobierno Reg… | in force 29 June 2013 |
+| `ordenanza-regional-230-arequipa/` | Ordenanza Regional N° 230-AREQUIPA: Aprueban medidas complementarias para el fortalecimiento del esquema de manejo de macro algas marinas varadas en el litoral … | in force 23 June 2013 |
+| `ordenanza-regional-229-arequipa/` | Ordenanza Regional N° 229-AREQUIPA: Modifican la Ordenanza Regional N° 028-AREQUIPA, que crea el Consejo Regional de la Mujer | in force 21 June 2013 |
+| `ordenanza-regional-198-arequipa/` | Ordenanza Regional N° 198-AREQUIPA: Ordenan la suspensión del proceso de Reorganización administrativa y Reestructuración orgánica de la Gerencia Regional de Sa… | in force 8 June 2013 |
+| `ordenanza-regional-200-arequipa/` | Ordenanza Regional N° 200-AREQUIPA: Crean el Hospital Central de Majes e incorporan a la estructura orgánica de la Gerencia Regional de Salud y del Gobierno Reg… | in force 8 June 2013 |
+| `ordenanza-regional-228-arequipa/` | Ordenanza Regional N° 228-AREQUIPA: Ordenanza Regional que promueve y fomenta la inclusión social, económica, laboral y política de los jóvenes de educación sup… | in force 2 June 2013 |
+| `ordenanza-regional-225-arequipa/` | Ordenanza Regional N° 225-AREQUIPA: Aprueban Ordenanza que permite la participación de todos los profesionales de la salud en los concursos para cargos directiv… | in force 23 May 2013 |
+| `ordenanza-regional-226-arequipa/` | Ordenanza Regional N° 226-AREQUIPA: Aprueban Ordenanza que promueve la Institucionalización y Transversalización del enfoque de Género en la Región Arequipa | in force 23 May 2013 |
+| `ordenanza-regional-224-arequipa/` | Ordenanza Regional N° 224-AREQUIPA: Crean la Comisión Regional Anticorrupción de Arequipa | in force 18 May 2013 |
+| `ordenanza-regional-222-arequipa/` | Ordenanza Regional N° 222-AREQUIPA: Aprueban modificación del TUPA del Gobierno Regional Arequipa aprobado mediante Ordenanza Regional N° 118 - Arequipa | in force 3 May 2013 |
+| `ordenanza-regional-220-arequipa/` | Ordenanza Regional N° 220-AREQUIPA: Modifican Ordenanza Regional N° 153-Arequipa y establecen Medidas Complementarias para la Mejora del Transporte Interprovinc… | in force 3 May 2013 |
+| `ordenanza-regional-221-arequipa/` | Ordenanza Regional N° 221-AREQUIPA: Aprueban Reglamento del Proceso de Evaluación y Designación para cargos de confianza en la Gerencia Regional de Educación de… | in force 28 April 2013 |
+| `ordenanza-regional-191-arequipa/` | Ordenanza Regional N° 191-AREQUIPA: Aprueban Plan Regional Concertado de Salud de la Región Arequipa para el periodo 2012 - 2016 | in force 24 April 2013 |
+| `ordenanza-regional-189-arequipa/` | Ordenanza Regional N° 189-AREQUIPA: Modifican Ordenanza Regional N° 148-AREQUIPA y aprueban Reglamento Interno del CTIR y Secretaría Técnica | in force 24 April 2013 |
+| `ordenanza-regional-219-arequipa/` | Ordenanza Regional N° 219-AREQUIPA: Suspenden temporalmente efectos de la Ordenanza Regional N° 142-AREQUIPA que aprobó la adscripción de la Región Arequipa al … | in force 1 April 2013 |
+| `ordenanza-regional-216-arequipa/` | Ordenanza Regional N° 216-AREQUIPA: Aprueban Reglamento para el Proceso del Presupuesto Participativo del Gobierno Regional de Arequipa - Periodo 2014 | in force 1 April 2013 |
+| `ordenanza-regional-218-arequipa/` | Ordenanza Regional N° 218-AREQUIPA: Declaran de interés público regional "la mejora de la implicación de los padres de familia en la vida académica de sus hijos… | in force 1 April 2013 |
+| `ordenanza-regional-217-arequipa/` | Ordenanza Regional N° 217-AREQUIPA: Modifican la Ordenanza Regional N° 118-AREQUIPA, que aprobó el TUPA del Gobierno Regional de Arequipa | in force 1 April 2013 |
+| `ordenanza-regional-214-arequipa/` | Ordenanza Regional N° 214-AREQUIPA: Crean el Sistema Regional de Prevención y Atención de la Violencia Escolar y Violencia Intrafamiliar de la Región Arequipa -… | in force 22 March 2013 |
+| `ordenanza-regional-211-arequipa/` | Ordenanza Regional N° 211-AREQUIPA: Declaran como prioridad regional la promoción e implementación de la alimentación saludable de niños y adolescentes en edad … | in force 22 March 2013 |
+| `ordenanza-regional-213-arequipa/` | Ordenanza Regional N° 213-AREQUIPA: Declaran de interés público regional la recuperación y conservación de nuestra identidad cultural lingüística y el uso, pres… | in force 22 March 2013 |
+| `ordenanza-regional-196-arequipa/` | Ordenanza Regional N° 196-AREQUIPA: Autorizan al Órgano Ejecutivo Regional, a través de la Gerencia Regional de Educación, considere dentro del Proceso de Reasi… | in force 15 March 2013 |
+| `ordenanza-regional-203-arequipa/` | Ordenanza Regional N° 203-AREQUIPA: Establecen plazo de presentación del Instrumento de Gestión Ambiental Correctivo (IGAC) dentro del Proceso de Formalización … | in force 7 March 2013 |
+| `ordenanza-regional-210-arequipa/` | Ordenanza Regional N° 210-AREQUIPA: Aprueban Cuadros para Asignación de Personal de las Gerencias Regionales de la Producción, Energía y Minas y Comercio Exteri… | in force 7 March 2013 |
 
 ## Source
 
