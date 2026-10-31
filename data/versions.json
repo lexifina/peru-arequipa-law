@@ -1,0 +1,3015 @@
+{
+ "country": "PE-ARE",
+ "acts": [
+  {
+   "slug": "ordenanza-regional-564-arequipa",
+   "short": "Ordenanza Regional N° 564-AREQUIPA",
+   "title": "Ordenanza Regional N° 564-AREQUIPA: Institucionalizan el 6 de junio de cada año como fecha de creación y aniversario institucional del Archivo Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2566580-1",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4DCaSz6a41oAPQffhsT3Jl/*/2566580-1.PDF",
+     "sha256": "d6bdd2261c7e9d1461b010393a8c205880983aabde6a0f6214c36263ce9a6c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-563-arequipa",
+   "short": "Ordenanza Regional N° 563-AREQUIPA",
+   "title": "Ordenanza Regional N° 563-AREQUIPA: Crean el Comité Regional de Mujeres y Cambio Climático de Arequipa (COREMUCC Arequipa)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2564094-1",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BlbL1PG_a3ZBFF3a97mGUI/*/2564094-1.PDF",
+     "sha256": "f081a6c0bcc82447112cfa8b7e8afb38ba1890e87c3a364705918f5c26e23779"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-562-arequipa",
+   "short": "Ordenanza Regional N° 562-AREQUIPA",
+   "title": "Ordenanza Regional N° 562-AREQUIPA: Ordenanza Regional para la gobernanza y el desarrollo responsable de la inteligencia artificial en el Gobierno Regional de Arequipa y la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2562769-1",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/89xQ4BxQa1U9un6B5ia0MJ/*/2562769-1.PDF",
+     "sha256": "280e729be7603fde355a9e65b9dd13d2c1dabcb37df4f35ec2434147183fc1d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-561-arequipa",
+   "short": "Ordenanza Regional N° 561-AREQUIPA",
+   "title": "Ordenanza Regional N° 561-AREQUIPA: Ordenanza Regional que crea la Mesa Regional para la Prevención y Atención de los matrimonios y las uniones infantiles tempranas forzadas (MUITF) en la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2559872-1",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9mqxqgsH4mm95dUjjRSQfU/*/2559872-1.PDF",
+     "sha256": "6e52b9fe64d4c417cee6ed5732983127f9701bb0c565b2f368775ca7cb3a5c48"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-559-arequipa",
+   "short": "Ordenanza Regional N° 559-AREQUIPA",
+   "title": "Ordenanza Regional N° 559-AREQUIPA: Ordenanza Regional que aprueba los \"Lineamientos de Articulación y Priorización de la Inversión Pública Turística en la región Arequipa\" para la formulación y actualización de los Planes de Desarrollo Turístico Local (PDTL) en las provincias de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2553533-1",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AJKM2btSaXFBqRGbW9oSxX/*/2553533-1.PDF",
+     "sha256": "24ec0af2c36402ce44d7ee740a290ad5438b64e8bb1d6d5c20a0a7fe45319a73"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-560-arequipa",
+   "short": "Ordenanza Regional N° 560-AREQUIPA",
+   "title": "Ordenanza Regional N° 560-AREQUIPA: Ordenanza Regional que establece el marco para la gestión de la salud menstrual digna",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2553412-1",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BrGcSWFa49c8kvpc4PTVsI/*/2553412-1.PDF",
+     "sha256": "db960e4694ca52f0e574e39e184cdd27a4eae99a5ebf8413b7c655dc59029e52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-558-arequipa",
+   "short": "Ordenanza Regional N° 558-AREQUIPA",
+   "title": "Ordenanza Regional N° 558-AREQUIPA: Ordenanza Regional que dispone la incorporación obligatoria de la identidad visual del Geoparque Mundial UNESCO Colca y Volcanes de Andagua en las intervenciones públicas y acciones institucionales en su ámbito territorial",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2546227-1",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EJgGJDoSaW-9fkzBxkcqyG/*/2546227-1.PDF",
+     "sha256": "bbfabd5c62b816b0607ec1f1216c5c7f70912dd491786e155a3881d4b59b078f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-557-arequipa",
+   "short": "Ordenanza Regional N° 557-AREQUIPA",
+   "title": "Ordenanza Regional N° 557-AREQUIPA: Ordenanza Regional que aprueba el Plan Regional de Competitividad y Productividad de Arequipa al 2035 – PRCP AREQUIPA 2035",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2542179-1",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/15XGC_4O4Bl95Qc0Tcyhap/*/2542179-1.PDF",
+     "sha256": "6462ebfda8e06be0d3b385e8b1042b7fad7f0fb7a768430ffc316da65e361e8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-556-arequipa",
+   "short": "Ordenanza Regional N° 556-AREQUIPA",
+   "title": "Ordenanza Regional N° 556-AREQUIPA: Aprueban la creación, conformación e implementación del Consejo Regional de Cultura de la Región Arequipa - CORECUL AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2532600-1",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1b_P-sGZaRi8cGvu7CfyWw/*/2532600-1.PDF",
+     "sha256": "adf68de535417adc283722bbf080057d5f8bd6beed5e78daa8109d2d56c0f1c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-554-arequipa",
+   "short": "Ordenanza Regional N° 554-AREQUIPA",
+   "title": "Ordenanza Regional N° 554-AREQUIPA: Ordenanza Regional que aprueba la creación de la Instancia de Articulación Regional de Desarrollo e Inclusión Social (IAR-DIS) de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2529184-1",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 12,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dvahkk4wKJt9yqIt35CDGP/*/2529184-1.PDF",
+     "sha256": "60fd77b5e2c219386fbeef02864327a947027e2de857133ba169f13ceae0a033"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-553-arequipa",
+   "short": "Ordenanza Regional N° 553-AREQUIPA",
+   "title": "Ordenanza Regional N° 553-AREQUIPA: Ordenanza Regional que dispone la promoción, adecuación y sostenibilidad del concurso de Comprensión Lectora \"EL PERÚ LEE\" en la Región",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2529180-1",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3cbL4Xzb4q1AwLKBshJgMK/*/2529180-1.PDF",
+     "sha256": "3785b9c9e2ab29c7891e41b64b4a082bb206a90009fe69111f2338d9148eefc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-552-arequipa",
+   "short": "Ordenanza Regional N° 552-AREQUIPA",
+   "title": "Ordenanza Regional N° 552-AREQUIPA: Ordenanza Regional de adecuación normativa de la Ordenanza Regional N° 487-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2517386-1",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DHSBZO4xaDS8EqJ4xC3iiS/*/2517386-1.PDF",
+     "sha256": "b69cab4897a2f39b1d744d82c8282daca49141c827684cb71b36369e82e66a86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-551-arequipa",
+   "short": "Ordenanza Regional N° 551-AREQUIPA",
+   "title": "Ordenanza Regional N° 551-AREQUIPA: Declaran de prioridad e interés regional el fortalecimiento de las diversas formas de organización familiar como espacio fundamental para el desarrollo cognitivo y crecimiento integral del ser humano en nuestra región",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2505706-1",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C5qssXB8acGAJyiE7ksNIs/*/2505706-1.PDF",
+     "sha256": "2b13bce131f388ea8a4e08ec86028f96bec0c60d12506efdb701bfd56b233667"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-550-arequipa",
+   "short": "Ordenanza Regional N° 550-AREQUIPA",
+   "title": "Ordenanza Regional N° 550-AREQUIPA: Ordenanza Regional que aprueba el Plan Regional de Acuicultura 2026-2030",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2499942-1",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6zHNbrnyaGe8EM1RWtr30Z/*/2499942-1.PDF",
+     "sha256": "d3278570a6c9e63184ec7abce429a3d128d0adb450a0dd8c5b576e7b2e1f4f44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-549-arequipa",
+   "short": "Ordenanza Regional N° 549-AREQUIPA",
+   "title": "Ordenanza Regional N° 549-AREQUIPA: Ordenanza que aprueba el Plan de Desarrollo Regional Concertado 2026-2035 del departamento de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2499935-1",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8-1gUqPWKzVA01a_nwvr-y/*/2499935-1.PDF",
+     "sha256": "f8b4238fcf7afbe242b533ede245952d5b179fe6e809d5272f73b4b273f67c19"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-548-arequipa",
+   "short": "Ordenanza Regional N° 548-AREQUIPA",
+   "title": "Ordenanza Regional N° 548-AREQUIPA: Ordenanza Regional que crea la Comisión Multisectorial para la Prevención, Protección y Atención a la Población Desplazada – COMPAD en la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2495613-1",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/75gGru-q4H0ByxNrTf2yvu/*/2495613-1.PDF",
+     "sha256": "9bae0be6a6960ce80b6ebaeb796005c546d260b72035dd6161de3b93ce189ac4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-547-arequipa",
+   "short": "Ordenanza Regional N° 547-AREQUIPA",
+   "title": "Ordenanza Regional N° 547-AREQUIPA: Ordenanza Regional que establece el procedimiento excepcional para el alta y posterior disposición de equipos médicos y bienes provenientes de contratos de obras resueltos en el Gobierno Regional de Arequipa en el ámbito del sector salud",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2491805-1",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1XhytwpXqXOAYOCR-V1Lvt/*/2491805-1.PDF",
+     "sha256": "0fab7916c35aac7e1411a4c05f4594cf3002552ac1217569a0824c23ec65fdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-546-arequipa",
+   "short": "Ordenanza Regional N° 546-AREQUIPA",
+   "title": "Ordenanza Regional N° 546-AREQUIPA: Declaran el día 14 de noviembre de cada año como “Día de la Donación Voluntaria de Sangre a cargo de las Fuerzas Armadas y Policía Nacional del Perú a favor de los bancos de sangre de los hospitales de la región Arequipa adscritos al MINSA”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2486552-1",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Chz1_mIoaop9mVdNkV2BM6/*/2486552-1.PDF",
+     "sha256": "b282fdcc81cf2648d8a3c8fe99c6e78c05a753b48e6c6ed129beaf57e5f28519"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-541-arequipa",
+   "short": "Ordenanza Regional N° 541-AREQUIPA",
+   "title": "Ordenanza Regional N° 541-AREQUIPA: Aprueban el nuevo Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional (CCR) del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2482349-1",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BseiBpS8KlTBCMwUg4wZUw/*/2482349-1.PDF",
+     "sha256": "b70cd6e7c5b08dfbecdad854c1fb6a4771463603e28cfd033dd695ee9d404872"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-545-arequipa",
+   "short": "Ordenanza Regional N° 545-AREQUIPA",
+   "title": "Ordenanza Regional N° 545-AREQUIPA: Modifican la Ordenanza Regional N° 492-AREQUIPA en lo referente a la conformación de la Comisión Regional Anticorrupción de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2478744-1",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CLYVlj7qKet9LxlLR5t_mu/*/2478744-1.PDF",
+     "sha256": "e9485c1b52bfb1c0141d3d7dc8b818c3f62b0f6c68f7b3e661b8c42a3797d6a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-ordenanza-regional",
+   "short": "Ordenanza Regional N° ",
+   "title": "Ordenanza Regional N° : Ordenanza Regional que reconoce y aprueba la Agenda Regional Agraria del Comité de Gestión Regional Agrario, Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2471831-1",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1L04kLooar79mbvpbA8qHS/*/2471831-1.PDF",
+     "sha256": "3c492a1d76d9b7fdd6e0346128339244b33863e187e3ac3c4165dfdf31da2b7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-539-arequipa",
+   "short": "Ordenanza Regional N° 539-AREQUIPA",
+   "title": "Ordenanza Regional N° 539-AREQUIPA: Aprueban Ordenanza Regional que da inicio al proceso de elaboración del Plan Regional de Competitividad y Productividad de Arequipa al 2035 – PRCP AREQUIPA 2035",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2455799-1",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3E3pCve54mnADz0SLMnpzl/*/2455799-1.PDF",
+     "sha256": "52cd5da941086692ddc8432d154da6df4c8a5a511e1ee0de012c931def2807ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-538-arequipa",
+   "short": "Ordenanza Regional N° 538-AREQUIPA",
+   "title": "Ordenanza Regional N° 538-AREQUIPA: Establecen implementación de la Educación Sexual Integral en los Sectores Educación, Salud y en los espacios comunitarios de la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2425006-1",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6yeArGwIKyiBJlzDpcEVKM/*/2425006-1.PDF",
+     "sha256": "3c683d149ca4235c824bc55e6211efa6c4c97e68f61a5c7b1095847afb37df8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-537-arequipa",
+   "short": "Ordenanza Regional N° 537-AREQUIPA",
+   "title": "Ordenanza Regional N° 537-AREQUIPA: Ordenanza Regional que modifica la Ordenanza Regional N° 455-AREQUIPA, que aprueba la creación del Registro Regional de Personas con Discapacidad del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2421640-1",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/82Q2ZbEQKHIBAtecMW2rZr/*/2421640-1.PDF",
+     "sha256": "a88cbcdbe012b28ef0d406ed6fdb1aabdb045be6c75d86bd3793d6b092e4366f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-536-arequipa",
+   "short": "Ordenanza Regional N° 536-AREQUIPA",
+   "title": "Ordenanza Regional N° 536-AREQUIPA: Ordenanza Regional que aclara el artículo primero de la Ordenanza N° 532-AREQUIPA del Plan de Acción Regional de Seguridad Ciudadana (PARSC) 2024-2027",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2419453-1",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9gbumuHs4n_BEvbrIyN6HI/*/2419453-1.PDF",
+     "sha256": "84dcdb32cb7d11369b736313998cd65d6fa4b71450a10d1aeb3f32e243deece4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-532-arequipa",
+   "short": "Ordenanza Regional N° 532-AREQUIPA",
+   "title": "Ordenanza Regional N° 532-AREQUIPA: Ordenanza Regional que aprueba el Plan de Acción Regional de Seguridad Ciudadana 2024-2027 de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2419433-1",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0nG13E_3ah39vfh0Hlx0od/*/2419433-1.PDF",
+     "sha256": "8e5a97315ad6bfa13a960aee2a8bbe251e0141108490e81ae5e92663452172bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-534-arequipa",
+   "short": "Ordenanza Regional N° 534-AREQUIPA",
+   "title": "Ordenanza Regional N° 534-AREQUIPA: Ordenanza Regional que modifica el artículo 4.1 de la Ordenanza Regional N° 492-Arequipa, que aprueba el Reglamento Interno de la Comisión Anticorrupción de Arequipa, incorporando los literales h) e i)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2412488-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1RAoI8yCaIA9DFLY4t3EXJ/*/2412488-1.PDF",
+     "sha256": "c874050d966dfadcf9b6b48ce5649e5e302e65af82ba5d09421679ba0a24380f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-533-arequipa",
+   "short": "Ordenanza Regional N° 533-AREQUIPA",
+   "title": "Ordenanza Regional N° 533-AREQUIPA: Ordenanza Regional que modifica la Ordenanza Regional N° 411-AREQUIPA que aprueba el Texto Único de Procedimientos Administrativos -TUPA del Gobierno Regional de Arequipa, incorporando tres (03) PAE y modificando dos (02) PAE y cuatro (04) SPEE de la Gerencia Regi",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2409334-1",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DhwAPp_-qPR8Mum0j9S2aq/*/2409334-1.PDF",
+     "sha256": "dd119af0e2c1414229f5562d0455705cb6371074ad4f7d75aa363f1da4a897a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-530-arequipa",
+   "short": "Ordenanza Regional N° 530-AREQUIPA",
+   "title": "Ordenanza Regional N° 530-AREQUIPA: Ordenanza Regional que crea el Comité técnico de custodia e intangibilidad de los terrenos recuperados por la Procuraduría Pública Regional de propiedad y/o administrados por el Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2395339-1",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DHOCbEV243G9i8j-cB4v9m/*/2395339-1.PDF",
+     "sha256": "e1080d39b061475421ea8b8304738d6580aa9c04f355e6af427b49adb36f201e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-531-arequipa",
+   "short": "Ordenanza Regional N° 531-AREQUIPA",
+   "title": "Ordenanza Regional N° 531-AREQUIPA: Ordenanza Regional que crea el Comité Multisectorial para el control y erradicación de las moscas de la fruta en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2395013-1",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8tjJIYUz4AXABVNt2TapNb/*/2395013-1.PDF",
+     "sha256": "edcaae7978e2b6eb69c2cbe5b6ff12b8823de391a74deb398ff5bb681ea69d0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-529-arequipa",
+   "short": "Ordenanza Regional N° 529-AREQUIPA",
+   "title": "Ordenanza Regional N° 529-AREQUIPA: Ordenanza Regional que precisa las competencias y atribuciones de la Procuraduría Pública Regional para la recuperación extrajudicial de terrenos de propiedad estatal y requerir el apoyo de la Policía Nacional del Perú en la recuperación de terrenos de propiedad d",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2394967-1",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4174dHSqKRs9A7mcaq9lV8/*/2394967-1.PDF",
+     "sha256": "aedfd5b5b5074a59edb69edb6f1b133b44931213f8da01f1f443a97c96cd4e39"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-528-arequipa",
+   "short": "Ordenanza Regional N° 528-AREQUIPA",
+   "title": "Ordenanza Regional N° 528-AREQUIPA: Ordenanza Regional que deroga la Ordenanza Regional N° 001-2007-GRA/CR-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2357678-1",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5hYxGY3YKdkBdha3xeWXeR/*/2357678-1.PDF",
+     "sha256": "d27d4a1b79b7b0f7d824fb3c0c6d9d3a6c60e4e672618ff51eadacc3c85235bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-527-arequipa",
+   "short": "Ordenanza Regional N° 527-AREQUIPA",
+   "title": "Ordenanza Regional N° 527-AREQUIPA: Ordenanza Regional que establece la creación de \"La Semana de la Integridad y Lucha Contra la Corrupción”, en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2353689-1",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FYNsKTDPqcc8SX9WKx3APm/*/2353689-1.PDF",
+     "sha256": "ea22277fe351cd39efeb29fe0f5ee1bcc1070d8f6de5e9117e30ff0caf307e09"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-526-arequipa",
+   "short": "Ordenanza Regional N° 526-AREQUIPA",
+   "title": "Ordenanza Regional N° 526-AREQUIPA: Ordenanza Regional que constituye la Comisión Regional de Registros Genealógicos de Alpacas y Llamas de la Región de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2350962-1",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0wseYRFw4MTBFpbKTZpbJQ/*/2350962-1.PDF",
+     "sha256": "ae876d4994af16146237d34bd704228ce57b4f529bc84bfbd1806d21e338fc53"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-525-arequipa",
+   "short": "Ordenanza Regional N° 525-AREQUIPA",
+   "title": "Ordenanza Regional N° 525-AREQUIPA: Ordenanza Regional para prevenir la violencia de género a través de la protección de los derechos de las niñas y mujeres en su diversidad que brindan servicios, labores y actividades de cuidado",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2346785-1",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Ek3WFVQhaJb8woOVm7cpBU/*/2346785-1.PDF",
+     "sha256": "1986dec76dce35483aecab1184e45e1a19f45cdc162ef960fe64e73ad4d9c759"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-524-arequipa",
+   "short": "Ordenanza Regional N° 524-AREQUIPA",
+   "title": "Ordenanza Regional N° 524-AREQUIPA: Ordenanza Regional que precisa la aplicación de la Ley N° 30884, Ley que regula el plástico de un solo uso y los recipientes o envases descartables, en el Gobierno Regional de Arequipa y todas sus unidades ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2329951-1",
+   "versions": [
+    {
+     "from": "2024-10-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3ZZ2f4SRajS9kGhaCdzueE/*/2329951-1.PDF",
+     "sha256": "2052aa58fb0be5dc9228c5224ad0eae6c6ffbf64bb04bc65f43434c8c29d915f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-523-arequipa",
+   "short": "Ordenanza Regional N° 523-AREQUIPA",
+   "title": "Ordenanza Regional N° 523-AREQUIPA: Ordenanza Regional que establece los lineamientos y orientaciones generales para la formulación de la política regional de fomento y desarrollo de la industria del hidrógeno verde en la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2328966-1",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4SdhPoSe4Fb92UVPNC_3Cg/*/2328966-1.PDF",
+     "sha256": "a81be7610433df46e7e3d1f9329818cce52988159c8255bd27305136edb1a2cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-509-2023-arequipa",
+   "short": "Ordenanza Regional N° 509-2023-AREQUIPA",
+   "title": "Ordenanza Regional N° 509-2023-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos – TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2309925-1",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FmtT12zvacs8K7SaQf59XT/*/2309925-1.PDF",
+     "sha256": "4134bd0aa1dca6cfebd5ac5986b0aa6bee3de72dfc5f4cbe20840e8b7a80eb2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-519-arequipa",
+   "short": "Ordenanza Regional N° 519-AREQUIPA",
+   "title": "Ordenanza Regional N° 519-AREQUIPA: Ordenanza Regional para prevenir, prohibir y sancionar con debida diligencia el acoso sexual en los espacios públicos de la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2322959-1",
+   "versions": [
+    {
+     "from": "2024-09-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/26hGcuNQaBKBABXQb4ty-p/*/2322959-1.PDF",
+     "sha256": "412a2f5f20e3867380b7b472fce80f701a2959900156bb4752638a8aba738738"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-522-arequipa",
+   "short": "Ordenanza Regional N° 522-AREQUIPA",
+   "title": "Ordenanza Regional N° 522-AREQUIPA: Ordenanza que establece como fecha conmemorativa el reconocimiento internacional del  “Geoparque Mundial Unesco Colca y Volcanes de Andagua” (GMU-CVA)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2320963-1",
+   "versions": [
+    {
+     "from": "2024-09-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/51gUkxOf4nLAAZv_EddoX1/*/2320963-1.PDF",
+     "sha256": "d080a4f7d27bea607adff6718b4ee78ac44fd09fedb9837b35296f04903df1b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-521-arequipa",
+   "short": "Ordenanza Regional N° 521-AREQUIPA",
+   "title": "Ordenanza Regional N° 521-AREQUIPA: Modifican la Ordenanza Regional N° 455-AREQUIPA, que aprueba la creación del Registro Regional de Personas con Discapacidad del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2320958-1",
+   "versions": [
+    {
+     "from": "2024-09-07",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2XBLiGR0a0QBwiLlLZJ1-N/*/2320958-1.PDF",
+     "sha256": "321e5096bfa335596748955bc0f72a8c7c07bda70cbb62c6cec0c9583e4921de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-520-arequipa",
+   "short": "Ordenanza Regional N° 520-AREQUIPA",
+   "title": "Ordenanza Regional N° 520-AREQUIPA: Ordenanza Regional que incorpora el enfoque intercultural; uso, preservación, desarrollo, recuperación, fomento, difusión y promoción de lenguas indígenas u originarias; derechos del pueblo afroperuano; prevención y sanción del racismo y la discriminación étnico-r",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2319692-1",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EH4FqchVq3wBK3toW9zTKt/*/2319692-1.PDF",
+     "sha256": "127e8cd85193a0a8e3160094dc4376935e7bae15ca5a1e331c37fe129ccaee44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-517-arequipa",
+   "short": "Ordenanza Regional N° 517-AREQUIPA",
+   "title": "Ordenanza Regional N° 517-AREQUIPA: Ordenanza Regional que crea el Banco de Medicamentos Donados (BAMEDO)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2305645-1",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D1Up51EkKMGBe6nOGjADBS/*/2305645-1.PDF",
+     "sha256": "01a1a2af9b2d41b82d21a4215f940812848540d46db7f84cecd06dc6923e6312"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-512-2023-arequipa",
+   "short": "Ordenanza Regional N° 512-2023 -AREQUIPA",
+   "title": "Ordenanza Regional N° 512-2023 -AREQUIPA: Ordenanza Regional que modifica la Ordenanza Regional N° 492- AREQUIPA, que aprueba el Reglamento Interno de la Comisión Regional Anticorrupción de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2295195-1",
+   "versions": [
+    {
+     "from": "2024-06-09",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dp-Pzp-FKyt9sNc9-0jdrK/*/2295195-1.PDF",
+     "sha256": "7a8edb0fbba18f6484b871642cf1dc729ff430537cec0a58226fcf58020d338f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-513-2024-arequipa",
+   "short": "Ordenanza Regional N° 513-2024-AREQUIPA",
+   "title": "Ordenanza Regional N° 513-2024-AREQUIPA: Ordenanza que aprueba el Reglamento para el Registro de Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional (CCR) del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2284891-1",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FOfUwMXKaMZBcmhlN3E6yw/*/2284891-1.PDF",
+     "sha256": "57f698e3da84737fdcbb191f0b1d1568528596228a4c08cf30bceacb262cf83f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-515-2024-arequipa",
+   "short": "Ordenanza Regional N° 515-2024-AREQUIPA",
+   "title": "Ordenanza Regional N° 515-2024-AREQUIPA: Ordenanza Regional que aprueba la Política Regional de Seguridad Pública al 2030 de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2284935-1",
+   "versions": [
+    {
+     "from": "2024-05-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/78xRVxs1qf0A97-oi23dId/*/2284935-1.PDF",
+     "sha256": "87352c19cd2b80fa32464749e9589c95caf54b49c95aa87d70b6b571df03131d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-514-2024-arequipa",
+   "short": "Ordenanza Regional N° 514-2024-AREQUIPA",
+   "title": "Ordenanza Regional N° 514-2024-AREQUIPA: Ordenanza que aprueba el Reglamento del Presupuesto Participativo Basado en Resultados del Gobierno Regional de Arequipa para el periodo 2025-2027",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2284436-1",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3Zs3ZbU6qbQ8YgnfctsFab/*/2284436-1.PDF",
+     "sha256": "0920e83a34a12506a12abdce350399a5f74e85d4bae88b74543d051c52a2fd44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-511-2023-arequipa",
+   "short": "Ordenanza Regional N° 511-2023-AREQUIPA",
+   "title": "Ordenanza Regional N° 511-2023-AREQUIPA: Aprueban modificación de la Ordenanza Regional N° 480, referida a la creación del Comité de Gestión del Geoparque Colca y Volcanes de Andagua (CGCVA)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2284193-1",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/302MOrtEafa9Pa_bA0py-k/*/2284193-1.PDF",
+     "sha256": "db0dc63e1aa24a403f35b6cdf4119af9479ded5d34e46cb770b319ffc2315bfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-506-arequipa",
+   "short": "Ordenanza Regional N° 506-AREQUIPA",
+   "title": "Ordenanza Regional N° 506-AREQUIPA: Ordenanza Regional que declara de interés público regional reconocimiento y promoción de la Lengua de Señas Peruana, como lengua de las personas con discapacidad auditiva o personas sordas, aprobándose normas para alcanzar los objetivos propuestos por la Ley N° 29",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2283911-1",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5DRT-RtU4xlAsS-BKocXWX/*/2283911-1.PDF",
+     "sha256": "171942aa6a37dcd1df77b3e462eabd3a88f3e7b7cfe30bf4fafb28e632b77bcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-508-2023-arequipa",
+   "short": "Ordenanza Regional N° 508-2023-AREQUIPA",
+   "title": "Ordenanza Regional N° 508-2023-AREQUIPA: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2244536-1",
+   "versions": [
+    {
+     "from": "2023-12-16",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5B7p0u7L45e9ygyJ0eDR0Y/*/2244536-1.PDF",
+     "sha256": "85f9cf7e36471e4b306a61102129f79571f90678c1aa7c94c04f2a4905a02868"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-505-arequipa",
+   "short": "Ordenanza Regional N° 505-AREQUIPA",
+   "title": "Ordenanza Regional N° 505-AREQUIPA: Ordenanza Regional que aprueba el Reglamento Interno del Consejo de Coordinación Regional del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2242643-1",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0wFvEzqSqOtBYRRc0SRwHn/*/2242643-1.PDF",
+     "sha256": "f4721bcfa51934aef649cd6bff5275fbcba2bcc114f4e7f6fb83eaa968d3487a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-502-arequipa",
+   "short": "Ordenanza Regional N° 502-AREQUIPA",
+   "title": "Ordenanza Regional N° 502-AREQUIPA: Aprueban obligatoriedad del Gobierno Regional de Arequipa y sus unidades ejecutoras de contratar a una persona natural y/o jurídica supervisora para las obras por administración directa cuyo monto sea igual o superior a S/. 4´300,000.00",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2240584-1",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AFusXCNDq_pAes_0ekY40L/*/2240584-1.PDF",
+     "sha256": "c0f95ba1496c1bd392d96a90d7fb2f88b1fcea6fc4478aa00e888e5937ecf308"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-504-arequipa",
+   "short": "Ordenanza Regional N° 504-AREQUIPA",
+   "title": "Ordenanza Regional N° 504-AREQUIPA: Ordenanza que establece la fecha conmemorativa institucional del Consejo Regional del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2237652-1",
+   "versions": [
+    {
+     "from": "2023-11-25",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3sd0_tFpqVy8uwiWmK7Za1/*/2237652-1.PDF",
+     "sha256": "1a3b2ffba224e45fd7474444bdcb3fcae8ce9b804f1703223df8b1da4727668e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-507-arequipa",
+   "short": "Ordenanza Regional N° 507-AREQUIPA",
+   "title": "Ordenanza Regional N° 507-AREQUIPA: Ordenanza Regional que aprueba el Cuadro para la Asignación de Personal Provisional de la Gerencia Regional de Salud del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2234514-1",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4fLrM0vGanHABV3MgdrxqF/*/2234514-1.PDF",
+     "sha256": "65b92078dc265611b62a7ace32d7ed4032c4a22b963ca6da49f309cb74f70b85"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-503-arequipa",
+   "short": "Ordenanza Regional N° 503-AREQUIPA",
+   "title": "Ordenanza Regional N° 503-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2219284-1",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EcZZV2p5qI38DtI7wudfsR/*/2219284-1.PDF",
+     "sha256": "5181f9515f62345395f2a9e5fbf06203487344cd5afe0883b58516693febb854"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-501-arequipa",
+   "short": "Ordenanza Regional N° 501-AREQUIPA",
+   "title": "Ordenanza Regional N° 501-AREQUIPA: Ordenanza que reconoce a las niñas, niños y adolescentes como Agentes de Cambio para el desarrollo sostenible de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2195795-1",
+   "versions": [
+    {
+     "from": "2023-07-16",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AX3XbzAeac_8GL4xXhIY7A/*/2195795-1.pdf",
+     "sha256": "26e2ded91b652394f77e81715d4901539b166635a3cfcac21b726d1036d05e69"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-500-arequipa",
+   "short": "Ordenanza Regional N° 500-AREQUIPA",
+   "title": "Ordenanza Regional N° 500-AREQUIPA: Ordenanza que aprueba la ampliación temporal al año 2027 del Plan de Desarrollo Regional Concertado 2013-2025 PDRC actualizado de la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2168864-1",
+   "versions": [
+    {
+     "from": "2023-04-16",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E6z8aiv6acT9ZmgfApi1ti/*/2168864-1.pdf",
+     "sha256": "b3d2a85a425bf29129fbc33504e341dd454f2a2d8d0f3db1ef62836e6c574bca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-499-arequipa",
+   "short": "Ordenanza Regional N° 499-AREQUIPA",
+   "title": "Ordenanza Regional N° 499-AREQUIPA: Ordenanza Regional que aprueba y reconoce el “Acuerdo de Gobernabilidad y Gobernanza de la Región Arequipa 2023-2026”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2167290-2",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1tdQ3jtRK-_9KQ7kcBjv6D/*/2167290-2.pdf",
+     "sha256": "0cfc045f54f7066d46ff110084372b89686bcf4401bb659a98c46c1eec9b6ed9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-496-arequipa",
+   "short": "Ordenanza Regional N° 496-AREQUIPA",
+   "title": "Ordenanza Regional N° 496-AREQUIPA: Ordenanza Regional que dispone la creación de la Gerencia Regional de Ciencia, Tecnología e Innovación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2167290-1",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F0WQ-NYDaQ5BmRqCUbBMVm/*/2167290-1.pdf",
+     "sha256": "0f113645576d67b7bcd7730d57ee9d0a6c6ac256febd168f244a63c05b397080"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-495-arequipa",
+   "short": "Ordenanza Regional N° 495-AREQUIPA",
+   "title": "Ordenanza Regional N° 495-AREQUIPA: Ordenanza Regional que dispone incluir, en el Plan Educativo Regional y/o Actividades Educativas, desarrolladas por la Gerencia Regional de Educación y las Unidades de Gestión Educativa Local, los servicios de apoyo educativo de la Educación Básica Especial",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2156559-1",
+   "versions": [
+    {
+     "from": "2023-03-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AfGmK4V3a8KBXzriFErSIj/*/2156559-1.pdf",
+     "sha256": "fa410bc82b475d414544f0b3d8e10597da9f6da66f0030ec3f0db245c172ed62"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-498-arequipa",
+   "short": "Ordenanza Regional N° 498-AREQUIPA",
+   "title": "Ordenanza Regional N° 498-AREQUIPA: Aprueban el proyecto de reglamento del Presupuesto Participativo basado en resultados para el año 2024 del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2156029-1",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1tjvXqnGasl9nCrZPU6Fyp/*/2156029-1.pdf",
+     "sha256": "a3a2fecdbca921fc69f997cad522e021cfcb0b0904111adb58bb916c31619ade"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-497-arequipa",
+   "short": "Ordenanza Regional N° 497-AREQUIPA",
+   "title": "Ordenanza Regional N° 497-AREQUIPA: Aprueban ampliación temporal al año 2025 del Plan de Desarrollo Regional Concertado 2013-2021 PDRC actualizado de la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2156028-1",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8395gWGF4hSB9Bf3jnb0Z_/*/2156028-1.pdf",
+     "sha256": "64a1fd5c49dcdbfabe9fa59de4fdb70088a2f03809a93295b339b62d03ee3edb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-494-arequipa",
+   "short": "Ordenanza Regional N° 494-AREQUIPA",
+   "title": "Ordenanza Regional N° 494-AREQUIPA: Ordenanza Regional que crea el Consejo Regional para las Personas Adultas Mayores COREPAM - AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2139031-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CxVaFbHA47NBDIIXyHVWaL/*/2139031-1.pdf",
+     "sha256": "0b85f6d574309f8ddae51cc68bfde1afe954c379dc713ef0f65dd2f9800c1af0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-492-arequipa",
+   "short": "Ordenanza Regional N° 492-AREQUIPA",
+   "title": "Ordenanza Regional N° 492-AREQUIPA: Ordenanza Regional que aprueba el Reglamento Interno de la Comisión Regional Anticorrupción de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2139030-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9tj8koVyaMO8tMxjCQrTA9/*/2139030-1.pdf",
+     "sha256": "27ece1b4e51bc2820c9dc6479107820156b88d4ddad22b92da7bcdbc0981d56e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-490-arequipa",
+   "short": "Ordenanza Regional N° 490-AREQUIPA",
+   "title": "Ordenanza Regional N° 490-AREQUIPA: Modifican el Reglamento Interno del Consejo Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2139029-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 22,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5vw9LrDGq09A5KdN-xCOC2/*/2139029-1.pdf",
+     "sha256": "d8c4a39b1a45ffb7d09430f393a79cfd6d3516f355e3109c855dda1ac65d70a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-489-arequipa",
+   "short": "Ordenanza Regional N° 489-AREQUIPA",
+   "title": "Ordenanza Regional N° 489-AREQUIPA: Modifican la Ordenanza Regional N° 478-AREQUIPA, que crea la Comisión Regional Anticorrupción de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2137281-1",
+   "versions": [
+    {
+     "from": "2022-12-26",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/34xeUSoBaN9AmAYLRZZ1r3/*/2137281-1.pdf",
+     "sha256": "8e5abaa128cbdac0871b366a342c710f4727f035256fc020aef18c8dcd810c3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-488-arequipa",
+   "short": "Ordenanza Regional N° 488-AREQUIPA",
+   "title": "Ordenanza Regional N° 488-AREQUIPA: Aprueban el \"Plan de Acción Regional de Seguridad Ciudadana 2023 de la Región Arequipa’’",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2137279-1",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CfRUOIB3a_aB5jAfLv0IsX/*/2137279-1.pdf",
+     "sha256": "07ce2741d12f9a6f04f505c1b9dbe674000c3384c28abd44d87458eaf85fd445"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-487-arequipa",
+   "short": "Ordenanza Regional N° 487-AREQUIPA",
+   "title": "Ordenanza Regional N° 487-AREQUIPA: Ordenanza Regional que aprueba la prohibición de la quema de rastrojos, paja y granza provenientes de la actividad agrícola, en los campos de cultivo y demás zonas de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2125496-1",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3x19QZeLaud8hnsWvpsJrZ/*/2125496-1.pdf",
+     "sha256": "b2601ba615bc55e9072ad9413579a8e98514cb1680762f62dc5e3c19404a5b8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-486-arequipa",
+   "short": "Ordenanza Regional N° 486-AREQUIPA",
+   "title": "Ordenanza Regional N° 486-AREQUIPA: Ordenanza Regional que aprueba la conformación del Consejo Regional de Salud de Arequipa, Instancia de Coordinación Interinstitucional del Sistema Nacional de Salud",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2118208-1",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 13,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7zD8bzUvKdv9bZNBo5dkB7/*/2118208-1.pdf",
+     "sha256": "85ed39715196dadbec438be1f3efc772197d4b19bea6379a339ba9567baaf053"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-484-arequipa",
+   "short": "Ordenanza Regional N° 484-AREQUIPA",
+   "title": "Ordenanza Regional N° 484-AREQUIPA: Aprueban el Cuadro de Asignación de Personal Provisional (CAP Provisional) de la Gerencia Regional de Salud de Arequipa, su órgano desconcentrado y sus siete unidades ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2100960-1",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Bs84a76FqJe9hswaAfWJAy/*/2100960-1.pdf",
+     "sha256": "f9b0197ba193fbfce687b9b5f51eb53df24ab34d4f05d0952860d74df9cd8128"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-483-arequipa",
+   "short": "Ordenanza Regional N° 483-AREQUIPA",
+   "title": "Ordenanza Regional N° 483-AREQUIPA: Ordenanza Regional que crea el Consejo Regional de Participación de la Juventud en la Región Arequipa - COREPJU",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2100958-1",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AZ1rEE054k_9GxEXP86rXF/*/2100958-1.pdf",
+     "sha256": "af8dd8c35d5251f9d2e7a4c9876a76e18ac1f1ee8b12a77c5956369ba9f5d078"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-482-arequipa",
+   "short": "Ordenanza Regional N° 482-AREQUIPA",
+   "title": "Ordenanza Regional N° 482-AREQUIPA: Ordenanza Regional que impulsa la conclusión de la educación básica regular, la continuación y culminación de la educación superior y la inserción laboral de los jóvenes internados y externados de los Centros de Acogida Residencial (CAR) en el departamento de Areq",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2096250-1",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4vrkUeuaawAAOo0hPTkWmd/*/2096250-1.pdf",
+     "sha256": "3959496aaa5b2bcd55d1355c2d2fbb29ea25763f472f595edf8580cb2279b4f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-480-arequipa",
+   "short": "Ordenanza Regional N° 480-AREQUIPA",
+   "title": "Ordenanza Regional N° 480-AREQUIPA: Ordenanza Regional que aprueba la creación del Comité de Gestión del Geoparque Colca y Volcanes de Andagua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2079543-1",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2DbdgH04an7819dsAmfy0-/*/2079543-1.pdf",
+     "sha256": "5efafc08d4b14d86ccfa7420c52110ee40137646c34c4e23f7b73bd4ddcf85a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-479-arequipa",
+   "short": "Ordenanza Regional N° 479-AREQUIPA",
+   "title": "Ordenanza Regional N° 479-AREQUIPA: Ordenanza Regional que establece el criterio de paridad de género en la designación de los cargos de confianza del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2077396-1",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3PbcUb97Kif89GE9Kk__s1/*/2077396-1.pdf",
+     "sha256": "f2e54c7b368bfec8d5a4ccd3ae4e5052ee05d73664105a9534677fc8c4624943"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-478-arequipa",
+   "short": "Ordenanza Regional N° 478-AREQUIPA",
+   "title": "Ordenanza Regional N° 478-AREQUIPA: Crean la Comisión Regional Anticorrupción de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2074795-1",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D17swh1AaGD8sWfVIVbZ5A/*/2074795-1.pdf",
+     "sha256": "42716ea7b1f0854cdec00413258a19f47488cf30cc0fd42b8a64eb7dd841cf16"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-476-arequipa",
+   "short": "Ordenanza Regional N° 476-AREQUIPA",
+   "title": "Ordenanza Regional N° 476-AREQUIPA: Aprueban modificación del Reglamento de Organización y Funciones del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2074794-1",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D_44UVFqqe59VA2pijJ_dt/*/2074794-1.pdf",
+     "sha256": "717654550bea05c9b93ad28190dc9c7e63ed57f9f092b9185fa50d94601888d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-474-arequipa",
+   "short": "Ordenanza Regional N° 474-AREQUIPA",
+   "title": "Ordenanza Regional N° 474-AREQUIPA: Ordenanza Regional que aprueba la reorganizacion y/o reestructuración de la Escuela Nacional de Arte Carlos Baca Flor",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2058039-1",
+   "versions": [
+    {
+     "from": "2022-04-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/B20g5B-B4gB8JM6CvLijbK/*/2058039-1.pdf",
+     "sha256": "42e2b850b256481d3841c4028610159c7c1edef718ece821418750e6c6c37657"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-475-arequipa",
+   "short": "Ordenanza Regional N° 475-AREQUIPA",
+   "title": "Ordenanza Regional N° 475-AREQUIPA: Ordenanza Regional que aprueba el proyecto de Reglamento del Presupuesto Participativo basado en resultados del Gobierno Regional de Arequipa para el Año 2023",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2058038-1",
+   "versions": [
+    {
+     "from": "2022-04-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DaOPUP4Iql4AqURg1VA8Gp/*/2058038-1.pdf",
+     "sha256": "7db3fee41f3d6d699f7ee16705f7570813ae5003a889fe95435bf2bd51d10bbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-473-arequipa",
+   "short": "Ordenanza Regional N° 473-AREQUIPA",
+   "title": "Ordenanza Regional N° 473-AREQUIPA: Declaran como Área de conservación Regional Los Humedales de Chaviña - Bella Unión",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2056913-1",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FaLjdVVO4Rt9tvOETj7mfg/*/2056913-1.pdf",
+     "sha256": "0fcbf86bf19809c971d89744f70ba6ba052b68d2429b5d7070f43a0f934eba57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-471-arequipa",
+   "short": "Ordenanza Regional N° 471-AREQUIPA",
+   "title": "Ordenanza Regional N° 471-AREQUIPA: Ordenanza Regional que deroga la Ordenanza Regional N° 077-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2048297-1",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/13xnHHoTK56BHOr0ZYkw65/*/2048297-1.pdf",
+     "sha256": "5e40435570978075c19eac82a0d6c38f7710ea22c0a4f61505428b8e06edcb99"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-472-arequipa",
+   "short": "Ordenanza Regional N° 472-AREQUIPA",
+   "title": "Ordenanza Regional N° 472-AREQUIPA: Aprueban la actualización de la Estrategia Regional del Cambio Climático en la Región Arequipa 2019 - 2030",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2045890-1",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6PyK19yPabnAcBY7DMdaur/*/2045890-1.pdf",
+     "sha256": "aaa7f330d687df0f37d4bb85075d614c8ab5620f5094f4c65eda70b6873c5952"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-470-arequipa",
+   "short": "Ordenanza Regional N° 470-AREQUIPA",
+   "title": "Ordenanza Regional N° 470-AREQUIPA: Ordenanza Regional que aprueba el Plan de Acción Regional de Seguridad Ciudadana 2022 de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2042436-1",
+   "versions": [
+    {
+     "from": "2022-02-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5NQdkWmdKENAGvRlRlNij0/*/2042436-1.pdf",
+     "sha256": "3284d0ebf69e9c5b2f2d1d2084dd7708cca012ec9a7e5583d94a92d1934d3444"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-469-arequipa",
+   "short": "Ordenanza Regional N° 469-AREQUIPA",
+   "title": "Ordenanza Regional N° 469-AREQUIPA: Ordenanza Regional que promueve el Desarrollo Integral del Niño, Niña y Adolescente",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2038175-1",
+   "versions": [
+    {
+     "from": "2022-02-13",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9aMMWUOXKRcBZi5iQFqvWY/*/2038175-1.pdf",
+     "sha256": "e9bba352f117476a7acbbf9000572d3b388e2eea9a90ee7ce92be3ea19c79235"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-468-arequipa",
+   "short": "Ordenanza Regional N° 468-AREQUIPA",
+   "title": "Ordenanza Regional N° 468-AREQUIPA: Aprueban el Plan Estratégico Regional de Turismo - PERTUR Arequipa 2021 - 2026",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2036315-1",
+   "versions": [
+    {
+     "from": "2022-02-06",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C45diLii4E58bf4ocEWGAG/*/2036315-1.pdf",
+     "sha256": "97e18f281c237bdf863a6d59e5c014efa6f733fab4e9ba4b1a5b93517f726596"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-464-arequipa",
+   "short": "Ordenanza Regional N° 464-AREQUIPA",
+   "title": "Ordenanza Regional N° 464-AREQUIPA: Modifican el Reglamento de Organización y Funciones de la Autoridad Regional Ambiental, aprobado por la Ordenanza Regional N° 302-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2004214-1",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7NNx0x5oK4HA9xtf8DldTl/*/2004214-1.pdf",
+     "sha256": "4d7419fe8b3a47cb7635e13e7e056a1a039b04e5bf36c585a0ad79b2c9b8e131"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-466-arequipa",
+   "short": "Ordenanza Regional N° 466-AREQUIPA",
+   "title": "Ordenanza Regional N° 466-AREQUIPA: Aprueban Reglamento Interno que regula el funcionamiento de la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2002878-1",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BLGaAujcaTD8hPEKDQ4k-Q/*/2002878-1.pdf",
+     "sha256": "036b435dce80e89f23bf44e66bcdf2026dbdb0b2fb9a1ebf9d392d472a09d7ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-465-arequipa",
+   "short": "Ordenanza Regional N° 465-AREQUIPA",
+   "title": "Ordenanza Regional N° 465-AREQUIPA: Modifican la Ordenanza Regional N° 265-AREQUIPA, que declaró de necesidad pública e interés regional la lucha para erradicar la violencia de género ejercida hacia las mujeres, niñas, adolescentes, adultos mayores y personas con discapacidad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2001791-1",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5uE6IHn94PzAGYzyYCfDg7/*/2001791-1.pdf",
+     "sha256": "edcd4e050d00c316cac7a0cf1034b97dfc8fd4e29f119a5c3afc4a61a5d22737"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-462-arequipa",
+   "short": "Ordenanza Regional N° 462-AREQUIPA",
+   "title": "Ordenanza Regional N° 462-AREQUIPA: Ordenanza Regional que declara e institucionaliza el Día de la Mujer Emprendedora a Nivel Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1993092-1",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Eiegmqnx4YL9qDDwPOxX97/*/1993092-1.pdf",
+     "sha256": "f50a6b4288b5cb73be9c2ef020f3e859485fd7e912646ef5967eefe907668634"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-457-arequipa",
+   "short": "Ordenanza Regional N° 457-AREQUIPA",
+   "title": "Ordenanza Regional N° 457-AREQUIPA: Aprueban la modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1967054-1",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8q31RFa6axq8fo0vYyQL4A/*/1967054-1.pdf",
+     "sha256": "2c1a7e7d93d2fd115601cdc8f08ea43a79adb7d70a3d4ac26bb7f7feaad832da"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-540-arequipa",
+   "short": "Ordenanza Regional N° 540-AREQUIPA",
+   "title": "Ordenanza Regional N° 540-AREQUIPA: Aprueban Ordenanza Regional que declara de Interés Público y Prioridad Regional la Protección Integral de Niñas, Niños y Adolescentes, aprueba la creación y la conformación del Consejo Regional Multisectorial por los Derechos de las Niñas, Niños y Adolescentes – C",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2455646-1",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 12,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FN1a9sYQ4xQAbCJ5u4EO3N/*/2455646-1.PDF",
+     "sha256": "e794a70152227213c38125a4c8ded50d099a42818c68657b7beaf466b50ff839"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-453-arequipa",
+   "short": "Ordenanza Regional N° 453-AREQUIPA",
+   "title": "Ordenanza Regional N° 453-AREQUIPA: Aprueban modificación del Texto Único de Procedimientos Administrativos-TUPA del Gobierno Regional de Arequipa aprobado con Ordenanza Regional N° 411-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1956759-1",
+   "versions": [
+    {
+     "from": "2021-05-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5auP58N3ah-BNt8ICmexpH/*/1956759-1.pdf",
+     "sha256": "23d1212d380627ac66ed20910d4d4b35d13f2f2ac5fcb723e71a4e7f036a81f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-454-arequipa",
+   "short": "Ordenanza Regional N° 454-AREQUIPA",
+   "title": "Ordenanza Regional N° 454-AREQUIPA: Derogan las Ordenanzas Regionales N°s.  134, 037, 039, 041, 042 y 104-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1955901-2",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6T8OvkW7aZeA5_pGjbt5G8/*/1955901-2.pdf",
+     "sha256": "dc199c4e9629689a8e2c58766f60ff7a969c60d4e1f75a3e6745a97e2708d669"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-451-arequipa",
+   "short": "Ordenanza Regional N° 451-AREQUIPA",
+   "title": "Ordenanza Regional N° 451-AREQUIPA: Aprueba el Plan de Acción Regional de Seguridad Ciudadana 2021 de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1955901-1",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E-fuRgJcaDo84mOtI2IRIa/*/1955901-1.pdf",
+     "sha256": "3ac147fc7d03ff4503dc80f57316363a6d7e2412e7632719505d255028b32f76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-449-arequipa",
+   "short": "Ordenanza Regional N° 449-AREQUIPA",
+   "title": "Ordenanza Regional N° 449-AREQUIPA: Modifican la Ordenanza Regional N° 283-AREQUIPA, que establece porcentajes de distribución de la bolsa de trabajo de mano de obra y lineamientos para su contratación en los proyectos de inversión pública ejecutados por el Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1953219-2",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/75ew8O6UKjiBQlFUVIRaVR/*/1953219-2.pdf",
+     "sha256": "8b0de3a866b09168db76238684dd998ea5fffae20c6f2c07a4c0e3b56d633ab9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-448-arequipa",
+   "short": "Ordenanza Regional N° 448-AREQUIPA",
+   "title": "Ordenanza Regional N° 448-AREQUIPA: Aprueban el Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional (CCR) del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1953219-1",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4uD30T1KaM8949Ro98VAe9/*/1953219-1.pdf",
+     "sha256": "358c15e2f74dc353ca5c46144f66ef32ca9c84facc2b70d80b4a6e562d91342c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-447-arequipa",
+   "short": "Ordenanza Regional N° 447-AREQUIPA",
+   "title": "Ordenanza Regional N° 447-AREQUIPA: Ordenanza Regional que declara de prioritario interés regional la implementación progresiva de la Metodología BIM en los proyectos de inversión pública de competencia del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1935027-1",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2JwS3cbWaqu9pHTG7hSMXM/*/1935027-1.pdf",
+     "sha256": "7d6923e47c7dbc2a288df7b6d3a2bfe1c5f66d625ec963aa398b342d6bf62eeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-446-arequipa",
+   "short": "Ordenanza Regional N° 446-AREQUIPA",
+   "title": "Ordenanza Regional N° 446-AREQUIPA: Ordenanza Regional que aprueba el Cuadro para la Asignación de Personal Provisional de la Gerencia Regional de Salud del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1920592-6",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0fETtNUZa5Y8eRco1VI0QF/*/1920592-6.pdf",
+     "sha256": "c4900e620e2541f30230c088e56882a4cafe76a2703945c28853802dc26372ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-444-arequipa",
+   "short": "Ordenanza Regional N° 444-AREQUIPA",
+   "title": "Ordenanza Regional N° 444-AREQUIPA: Ordenanza Regional que institucionaliza y celebra el 16 de Octubre como el Día de la Batalla de Acarí",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1920592-4",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7_f51QORq06AF6LKP6dKqY/*/1920592-4.pdf",
+     "sha256": "7725b75650c9c1acf31cb2eaafddd4af60a0c51a7da2a7068f4fbf785e70af27"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-440-arequipa",
+   "short": "Ordenanza Regional N° 440-AREQUIPA",
+   "title": "Ordenanza Regional N° 440-AREQUIPA: Aprueban la creación del Observatorio Regional “Contra la Violencia de las Mujeres y los integrantes del Grupo Familiar en la Región Arequipa”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1916343-1",
+   "versions": [
+    {
+     "from": "2021-01-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8f9lwEL8KweBoAeiK-EJS8/*/1916343-1.pdf",
+     "sha256": "266d1fb7a1499f63e963241cb073d16f33da082409b69165634bbfe3e6d4c2bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-438-arequipa",
+   "short": "Ordenanza Regional N° 438-AREQUIPA",
+   "title": "Ordenanza Regional N° 438-AREQUIPA: Ordenanza Regional que aprueba la implementación de política de fronteras vivas en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1914222-1",
+   "versions": [
+    {
+     "from": "2020-12-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2zZtBWSgqVl8pVcnD9MwfO/*/1914222-1.pdf",
+     "sha256": "8c66f757cf7bc447ad1c88d0a8c4c4dc62a1e7dceaf2f6b87d735ec547ec5a84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-439-arequipa",
+   "short": "Ordenanza Regional N° 439-AREQUIPA",
+   "title": "Ordenanza Regional N° 439-AREQUIPA: Establecen la creación de  Redes Provinciales y Distritales de Lucha Contra la Trata de Personas, Tráfico Ilícito de Migrantes y Trabajo Forzoso en la Región de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1909787-1",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F0H53RGfqQ395mGYrxBPoV/*/1909787-1.pdf",
+     "sha256": "f262abd75bcc8e99381c3a4cfbce22c35dc040f3d840ad46f79221ccc3876d3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-435-arequipa",
+   "short": "Ordenanza Regional N° 435-AREQUIPA",
+   "title": "Ordenanza Regional N° 435-AREQUIPA: Ordenanza Regional que establece la universalización de la lengua quechua en la región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1904990-1",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 19,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Bh4qyn52KRs8ZK3N6_AWWW/*/1904990-1.pdf",
+     "sha256": "88cbda04b630b006bf7256b940e2dca1bc0a3473e9a84c05eeec52f68043baeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-429-arequipa",
+   "short": "Ordenanza Regional N° 429-AREQUIPA",
+   "title": "Ordenanza Regional N° 429-AREQUIPA: Ordenanza que aprueba la modificación del Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1902710-1",
+   "versions": [
+    {
+     "from": "2020-11-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F83XZd3J4M6B3TGMA6iHkZ/*/1902710-1.pdf",
+     "sha256": "b5fae99c731ea213914c6a318b8a435e6f5fd2f3a6c3986fbb48b98777f64127"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-437-arequipa",
+   "short": "Ordenanza Regional N° 437-AREQUIPA",
+   "title": "Ordenanza Regional N° 437-AREQUIPA: Aprueban la Zonificación Ecológica Económica del departamento de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1903370-1",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/64ccre8nqyA9MSGgW7PrYG/*/1903370-1.pdf",
+     "sha256": "dca154b5c8a49a0fe38a9f246791cdcaab4d2ae40776ca853e9c2079f397678f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-432-arequipa",
+   "short": "Ordenanza Regional N° 432-AREQUIPA",
+   "title": "Ordenanza Regional N° 432-AREQUIPA: Aprueban Reglamento de la Atención de Denuncias Ambientales de la Autoridad Regional Ambiental del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1901277-3",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/79gmkiSFKfhBv4w9rueNx3/*/1901277-6.pdf",
+     "sha256": "0bd6464f769b661835e646b4515a5fd61a8b4b747f869a5a380186e7966b5227"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-430-arequipa",
+   "short": "Ordenanza Regional N° 430-AREQUIPA",
+   "title": "Ordenanza Regional N° 430-AREQUIPA: Aprueban Reglamento de Supervisión Ambiental de la Autoridad Regional Ambiental del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1901277-1",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0NrbMd7mK148ddfqrtpIqv/*/1901277-4.pdf",
+     "sha256": "7d31a91f238a4556fd53520ea29def9d4765ca4222c756a6d53335839463f0a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-433-2020-gra-cr-arequipa",
+   "short": "Ordenanza Regional N° 433-2020-GRA/CR-AREQUIPA",
+   "title": "Ordenanza Regional N° 433-2020-GRA/CR-AREQUIPA: Aprueban el Reglamento de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1897405-1",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/641hiFYEKGgAHek2brPcaY/*/1897405-2.pdf",
+     "sha256": "52b9cc34a72155340629b17337f529b925396fa2e38919f410050d41889fe645"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-427-arequipa",
+   "short": "Ordenanza Regional N° 427-AREQUIPA",
+   "title": "Ordenanza Regional N° 427-AREQUIPA: Ordenanza Regional que modifica la Ordenanza Regional N° 425-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1884681-1",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6YMeefdzK6GA8-XDtsZD9C/*/1884681-1.pdf",
+     "sha256": "83c95fcfd8d1814f12cf686c64e094e4dadcebbc566b9d412efb3a12895d9b30"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-426-arequipa",
+   "short": "Ordenanza Regional N° 426-AREQUIPA",
+   "title": "Ordenanza Regional N° 426-AREQUIPA: Aprueban el Plan de Acción Regional de Seguridad Ciudadana 2020 de la Región de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1878602-1",
+   "versions": [
+    {
+     "from": "2020-08-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5em--x1QKHT9GUGfNAFZus/*/1878602-2.pdf",
+     "sha256": "edffd373592bfd13a016d4eca032135809ebcd8fb846e1f11a1da257793e313b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-425-arequipa",
+   "short": "Ordenanza Regional N° 425-AREQUIPA",
+   "title": "Ordenanza Regional N° 425-AREQUIPA: Aprueban documento técnico denominado ”Protocolo para la Vigilancia, Prevención y Control de la Salud frente al COVID-19, en las Actividades de la Pequeña Minería y Minería Artesanal en la Región Arequipa”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1869637-1",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/88p_Uk78qvN8mvukVaa09A/*/1869637-1.pdf",
+     "sha256": "90f9a9b55937cdfaaf6c737f20170fb5b2aa5b77f12b05e73dd65f0195cd1ec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-423-arequipa",
+   "short": "Ordenanza Regional N° 423-AREQUIPA",
+   "title": "Ordenanza Regional N° 423-AREQUIPA: Ordenanza Regional que crea la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Arequipa y la Mesa Multiactor",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1869377-1",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6Vtiz3QLqsDA4dkxtRBr-a/*/1869377-1.pdf",
+     "sha256": "e14dbd248224aa780a5fab27be006323f804491432db8e950fbfcc87bb627812"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-424-arequipa",
+   "short": "Ordenanza Regional N° 424-AREQUIPA",
+   "title": "Ordenanza Regional N° 424-AREQUIPA: Ordenanza Regional que regula la realización de sesiones de Consejo Regional en forma virtual",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866660-1",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BPElrQ0DKTu93Dh9N6TO0y/*/1866660-1.pdf",
+     "sha256": "4dd389fddd9d25c37cdad601ed7b9d0a6d9ff3e4dc2216541df0ff44ddfdfeb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-421-arequipa",
+   "short": "Ordenanza Regional N° 421-AREQUIPA",
+   "title": "Ordenanza Regional N° 421-AREQUIPA: Ordenanza que aprueba la actualización del Sistema Regional de Gestión Ambiental",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1861537-1",
+   "versions": [
+    {
+     "from": "2020-03-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/A77_cv8r4ZW8Fdp4iFQ-OD/*/1861537-1.pdf",
+     "sha256": "3acbfc862b3e8cd013280f4744b1cd8116526670511a5d53ea72b6e423fc94a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-418-arequipa",
+   "short": "Ordenanza Regional N° 418-AREQUIPA",
+   "title": "Ordenanza Regional N° 418-AREQUIPA: Ordenanza Regional que declara celebrar y conmemorar el 29 de mayo de cada año el \"Día de la Poesía Costumbrista Arequipeña\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1858822-2",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8Zho6wWaq-u8Q-q9s4mOE_/*/1858822-2.pdf",
+     "sha256": "e18e46547b9144a1c78c1e51d8c48459b8e51c87dd403455cf0fa9d28a79d179"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-415-arequipa",
+   "short": "Ordenanza Regional N° 415-AREQUIPA",
+   "title": "Ordenanza Regional N° 415-AREQUIPA: Aprueban el Reglamento de Sanciones y Multas para la Pequeña Minería y Minería Artesanal en Seguridad y Salud Ocupacional en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1858823-1",
+   "versions": [
+    {
+     "from": "2020-02-29",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3V93u9-d41F8FEDC4Psgjl/*/1858823-1.pdf",
+     "sha256": "e083b42c2f35b65003296df7a0b1aac87c8ccce93537636b7fde8fd0e30aec7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-414-arequipa",
+   "short": "Ordenanza Regional N° 414-AREQUIPA",
+   "title": "Ordenanza Regional N° 414-AREQUIPA: Aprueban la constitución de la “Mancomunidad Regional Macro Región Sur”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1826121-1",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0YKjQPXrauLBROjZsZLiEJ/*/1826121-2.pdf",
+     "sha256": "25fa3ea28e937697cd0cc4b7767bd32c611119b26d4a2a2cab15700becb50ef9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-411-arequipa",
+   "short": "Ordenanza Regional N° 411-AREQUIPA",
+   "title": "Ordenanza Regional N° 411-AREQUIPA: Aprueban Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1808461-1",
+   "versions": [
+    {
+     "from": "2019-09-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0LWOFicj44hBrMCoBWPpVZ/*/1808461-2.pdf",
+     "sha256": "c1b298aa06211eb4aa39f170d6626af7b04e4ff88281b0053a5c146136108998"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-410-arequipa",
+   "short": "Ordenanza Regional N° 410-AREQUIPA",
+   "title": "Ordenanza Regional N° 410-AREQUIPA: Aprueban Ordenanza sobre liquidaciones para reconocimiento y pago de bonificación especial por desempeño de cargo a favor del personal administrativo del Sector Educación, sujeto al Régimen Laboral de D. Leg. N° 276",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1798550-1",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BPxMu8Do4XCBjODV-JhMAq/*/1798550-2.pdf",
+     "sha256": "06e1cda47bb837585752b1b7781eeb2de67ed853ad398ddfa01248d5a2b05598"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-408-arequipa",
+   "short": "Ordenanza Regional N° 408-AREQUIPA",
+   "title": "Ordenanza Regional N° 408-AREQUIPA: Ordenanza Regional que elimina del TUPA del Gobierno Regional de Arequipa procedimientos correspondientes a la Autoridad Regional Ambiental - ARMA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1775993-2",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/226zOn5VaZ-80UQ2v8zgvS/*/1775993-2.pdf",
+     "sha256": "fd204a6c1652d04c0db146adaea43787ddff9d94ad5f884356ae5941f6416c19"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-406-arequipa",
+   "short": "Ordenanza Regional N° 406-AREQUIPA",
+   "title": "Ordenanza Regional N° 406-AREQUIPA: Aprueban creación del Comité Consultivo Regional de Turismo de Arequipa - CCRTA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1761819-1",
+   "versions": [
+    {
+     "from": "2019-04-20",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/39LkoWgx4Ib8vg_WURlEd-/*/1761819-2.pdf",
+     "sha256": "30fc53c5dedf9d84d02cf944bd626e43041ed382de8d0aaaff00ad2f3dc82674"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-405-arequipa",
+   "short": "Ordenanza Regional N° 405-AREQUIPA",
+   "title": "Ordenanza Regional N° 405-AREQUIPA: Aprueban Reglamento del Proceso del Presupuesto Participativo del Gobierno Regional de Arequipa para el ejercicio 2020 y cronograma",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1761499-1",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0UYSRzBw46492E5VPIOiM3/*/1761499-2.pdf",
+     "sha256": "d76d69ed5c9023e3854268f4a6e9ac1706a3b3a357e447c493923f0ab751e957"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-404-arequipa",
+   "short": "Ordenanza Regional N° 404-AREQUIPA",
+   "title": "Ordenanza Regional N° 404-AREQUIPA: Declaran de interés regional la formalización de la Pequeña Minería y Minería Artesanal en la Región de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1761496-1",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6LTKV0w34irBM9SI-53SmH/*/1761496-2.pdf",
+     "sha256": "cc3511997a020312e9d65e109d7ce4617b2fcd48c1dee2c1d989df7c5cfd6d46"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-401-arequipa",
+   "short": "Ordenanza Regional N° 401-AREQUIPA",
+   "title": "Ordenanza Regional N° 401-AREQUIPA: Aprueban el Cuadro para Asignación de Personal Provisional (CAP Provisional) de la Gerencia Regional de Salud de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1717994-1",
+   "versions": [
+    {
+     "from": "2018-12-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3_8-bKW24NIBbe7YszkPaP/*/1717994-1.pdf",
+     "sha256": "2d7c4c5c43e1c6186464c3cd82d54795bf44b9351ae669eb0f98d808e36d2c05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-397-arequipa",
+   "short": "Ordenanza Regional N° 397-AREQUIPA",
+   "title": "Ordenanza Regional N° 397-AREQUIPA: Ordenanza Regional que aprueba el Plan Estratégico Regional de Exportación PERX 2018 - 2025",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1697782-1",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C-0y-4PiaF2B4XygcUrGz4/*/1697782-1.pdf",
+     "sha256": "e8d43a1c44f1725d20a5f7be552691adfbd04e85df8cbaccf924f7a60b6f899c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-396-arequipa",
+   "short": "Ordenanza Regional N° 396-AREQUIPA",
+   "title": "Ordenanza Regional N° 396-AREQUIPA: Modifican el Artículo 2° de la Ordenanza Regional N° 377-AREQUIPA, que incorpora a la Mesa de Concertación para la Lucha contra la Pobreza al Comité Técnico Multisectorial de Evaluación, Implementación y Monitoreo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1657143-1",
+   "versions": [
+    {
+     "from": "2018-06-10",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9C8XvTPw4ZhA3h8CYsLwO8/*/1657143-1.pdf",
+     "sha256": "3bb758a8c8d845001776bb4ff82f574cba962d4fd68d022c89b8639241865003"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-394-arequipa",
+   "short": "Ordenanza Regional N° 394-AREQUIPA",
+   "title": "Ordenanza Regional N° 394-AREQUIPA: Ordenanza Regional que ratifica Plan Regional de Seguridad Ciudadana 2018",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1657136-1",
+   "versions": [
+    {
+     "from": "2018-06-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/35GU_VJqKfl9oFMEgrCnbA/*/1657136-1.pdf",
+     "sha256": "645b893593fdca8553a2e4107ac73a77745816ec4cafd3135d03b6ca423d4404"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-391-arequipa",
+   "short": "Ordenanza Regional N° 391-AREQUIPA",
+   "title": "Ordenanza Regional N° 391-AREQUIPA: Aprueban el Plan Regional de Prevención y Tratamiento del Consumo de Drogas 2017 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1608287-1",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EYcuScb-KzG88YOb1aTh4Q/*/1608287-1.pdf",
+     "sha256": "0df42a4d4428b907bff4bb311b3498e8c76253505ca3a9a39a4780cf08fad382"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-388-arequipa",
+   "short": "Ordenanza Regional N° 388-AREQUIPA",
+   "title": "Ordenanza Regional N° 388-AREQUIPA: Aprueban el Reglamento y Manual para el uso de la Marca Destino Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1608285-1",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6-_6MS5H40ZAnYW1z20kJF/*/1608285-1.pdf",
+     "sha256": "0a69a997d88a59539cd2f1cb4be32b96966a1944528d607802e0c290dd3dabe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-385-arequipa",
+   "short": "Ordenanza Regional N° 385-AREQUIPA",
+   "title": "Ordenanza Regional N° 385-AREQUIPA: Aprueban la Metodología para el Cálculo de Sanciones Monetarias Aplicables a la Pequeña Minería y Minería Artesanal en la Fiscalización Ambiental en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1608286-1",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BqBOwuoaqEU9vrmDvuO1wx/*/1608286-1.pdf",
+     "sha256": "e09793a42ef86ccac467aa9b53afa521e33e52a07aa797fa6ab7ffe2226f05ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-387-arequipa",
+   "short": "Ordenanza Regional N° 387-AREQUIPA",
+   "title": "Ordenanza Regional N° 387-AREQUIPA: Ordenanza que aprueba el “Plan Regional Contra la Trata de Personas y el Trabajo Forzoso 2018 -2021”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1608293-1",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0vGcTWLmqST834DitNFQCK/*/1608293-1.pdf",
+     "sha256": "8097aaae3e10035a266811e5d850eab46762ec4188e604f1a4c786e19c442c2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-392-arequipa",
+   "short": "Ordenanza Regional N° 392-AREQUIPA",
+   "title": "Ordenanza Regional N° 392-AREQUIPA: Modifican el Reglamento Interno del Consejo Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1608292-1",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CvhC14bIqngBaVgDAP7Umk/*/1608292-1.pdf",
+     "sha256": "0f7aa3949553fe5f1b5ebf426c2b04d76c141e74cc17a99379c897437ad47e6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-386-arequipa",
+   "short": "Ordenanza Regional N° 386-AREQUIPA",
+   "title": "Ordenanza Regional N° 386-AREQUIPA: Aprueban el Cuadro para Asignación de Personal Provisional de la Gerencia Regional de Educación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1602092-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7bFlAaDJqKZBJj0a43V2H9/*/1602092-1.pdf",
+     "sha256": "5971910b9573789a772c85e77d9add7a192ea761a8873e889ce1f9d419e51897"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-384-arequipa",
+   "short": "Ordenanza Regional N° 384-AREQUIPA",
+   "title": "Ordenanza Regional N° 384-AREQUIPA: Aprueban el Cuadro para Asignación de Personal Provisional (CAP Provisional) de la Gerencia Regional de Salud de Arequipa y sus siete Unidades Ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1578011-1",
+   "versions": [
+    {
+     "from": "2017-10-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8bSSqlQ6aFZ9bCLqXEU7Hi/*/1578011-1.pdf",
+     "sha256": "d1845e5a83061b401c8776e7042d95b0cb15391f1a725ae068d402f310df30bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-381-arequipa",
+   "short": "Ordenanza Regional N° 381-AREQUIPA",
+   "title": "Ordenanza Regional N° 381-AREQUIPA: Declaran de Interés y Prioridad Público Regional  la priorización del Proceso de Zonificación  y Ordenamiento Forestal de la Región",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1573652-1",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5cC9dFSLKk9A8jJ09Lkdd_/*/1573652-1.pdf",
+     "sha256": "b7056c7e65001f4a9519d42cf66babea097feb7f1bbbd84838f1a0eefbc19d23"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-380-arequipa",
+   "short": "Ordenanza Regional N° 380-AREQUIPA",
+   "title": "Ordenanza Regional N° 380-AREQUIPA: Constituyen el Fondo Regional de Promoción de la Inversión Privada - FONPRI",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1573651-1",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/41s8olG24rTA1EbnK9mF7k/*/1573651-1.pdf",
+     "sha256": "2f3424a9cac2e6ef2b966a57127778fa5f34823261a261441532e11efa525f6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-379-arequipa",
+   "short": "Ordenanza Regional N° 379-AREQUIPA",
+   "title": "Ordenanza Regional N° 379-AREQUIPA: Modifican la Ordenanzan N° 361-AREQUIPA mediante la cual se promueve acciones de fiscalización y concientización en rechazo de los delitos aduaneros y piratería en la Ragión Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1560363-2",
+   "versions": [
+    {
+     "from": "2017-09-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0b_E304qqa6AzOO-jT1qHL/*/1560363-2.pdf",
+     "sha256": "85cf911920856333220a05b323c550140516b9d49fab5cf61983217e585d9ce1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-378-arequipa",
+   "short": "Ordenanza Regional N° 378-AREQUIPA",
+   "title": "Ordenanza Regional N° 378-AREQUIPA: Derogan la Ordenanza Regional N° 121-AREQUIPA y su modificatoria Ordenanza Regional N° 140-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1560363-1",
+   "versions": [
+    {
+     "from": "2017-09-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DgMcBAFZqpNBtBZP3soyF7/*/1560363-1.pdf",
+     "sha256": "8cafa192d3197e98ddfc11efb96cf5a7d3ed53f7680aac1e358c74b2cb97eef1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-377-arequipa",
+   "short": "Ordenanza Regional N° 377-AREQUIPA",
+   "title": "Ordenanza Regional N° 377-AREQUIPA: Ordenanza que declara de necesidad e interés público prioritario la atención de la primera infancia y la adolescencia",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1560362-1",
+   "versions": [
+    {
+     "from": "2017-09-03",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FaSK1VK_Kvv9024QsSxvPP/*/1560362-1.pdf",
+     "sha256": "43e835abdb8b3cb16e94e1e3f3dfcc6d375283d2512f602b549fdd8fa3b280de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-376-arequipa",
+   "short": "Ordenanza Regional N° 376-AREQUIPA",
+   "title": "Ordenanza Regional N° 376-AREQUIPA: Ordenanza Regional que declara de Interés y Prioridad Regional la gestión del Cambio Climático con incidencia en agua y energía",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1558241-1",
+   "versions": [
+    {
+     "from": "2017-08-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FbdxtWxCqkb9lpuGqBNaI9/*/1558241-1.pdf",
+     "sha256": "af2732d48c2856a958fb930dd1b15b94ecddcf7d749cb2a2785a49eb1caf6e3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-370-arequipa",
+   "short": "Ordenanza Regional N° 370-AREQUIPA",
+   "title": "Ordenanza Regional N° 370-AREQUIPA: Modifican el Texto Único de Procedimientos Administrativos del Gobierno Regional de Arequipa, incorporando procedimientos correspondientes a la Gerencia Regional de Vivienda, Construcción y Saneamiento",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1558237-1",
+   "versions": [
+    {
+     "from": "2017-08-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BKMpNvRXq2G9nt5S0f38oF/*/1558237-1.pdf",
+     "sha256": "578521f25672c60ea049845feaa39d70f69392532c272cd3a8425a971d037cda"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-374-arequipa",
+   "short": "Ordenanza Regional N° 374-AREQUIPA",
+   "title": "Ordenanza Regional N° 374-AREQUIPA: Modifican la Ordenanza N° 159-Arequipa que incorpora cuatro miembros a la “Red Regional de Lucha contra la Trata de Personas, Tráfico Ilícito de Migrantes y Trabajo Forzoso de la Región Arequipa”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1534464-1",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1TiK3z7Ta-a8LRuLQRm8rg/*/1534464-1.pdf",
+     "sha256": "6eaae6dcf67cf2d7f12aaefe8341acc07664a96222d31cb89f6eda5dfbac75a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-373-arequipa",
+   "short": "Ordenanza Regional N° 373-AREQUIPA",
+   "title": "Ordenanza Regional N° 373-AREQUIPA: Ordenanza Regional que constituye la Mesa Regional para la Persona Adulta Mayor del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1527773-3",
+   "versions": [
+    {
+     "from": "2017-06-04",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8JrgU5p9aFX8nSm4_1TKDb/*/1527773-3.pdf",
+     "sha256": "700a5d6bc82608da150e2f8b1b483f972a01050b641b4ea6be87b373fc7235dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-371-arequipa",
+   "short": "Ordenanza Regional N° 371-AREQUIPA",
+   "title": "Ordenanza Regional N° 371-AREQUIPA: Ordenanza Regional que declara de Necesidad Pública e Interés Regional la protección, conservación, recuperación, restauración y puesta en valor el patrimonio arqueológico de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1527773-1",
+   "versions": [
+    {
+     "from": "2017-06-04",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9hPJVWjlaL68fj-XtrP9LT/*/1527773-1.pdf",
+     "sha256": "e728e8d00b151df706b2fe19d7fccdd9909070e128c393f4c409589ff4199943"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-372-arequipa",
+   "short": "Ordenanza Regional N° 372-AREQUIPA",
+   "title": "Ordenanza Regional N° 372-AREQUIPA: Ordenanza Regional que declara de Interés Regional el \"Pasacalle Regional de Arequipa\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1527773-2",
+   "versions": [
+    {
+     "from": "2017-06-04",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4bWqmOw74zp8cNhFNpMRKR/*/1527773-2.pdf",
+     "sha256": "9cb8ba59a415385b9b6f6f92f71f238acbc0fc74d90abae62af4bb820fc426e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-369-arequipa",
+   "short": "Ordenanza Regional N° 369-AREQUIPA",
+   "title": "Ordenanza Regional N° 369-AREQUIPA: Ordenanza Regional que ratifica Plan Regional de Seguridad Ciudadana 2017",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1527770-1",
+   "versions": [
+    {
+     "from": "2017-06-04",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/98Zu_fxZ4dl8yH913sqjMq/*/1527770-1.pdf",
+     "sha256": "7f64ab92b468b83675b66deef839d6f6e6d6ffddba07e74af536c0310607ad8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-368-arequipa",
+   "short": "Ordenanza Regional N° 368-AREQUIPA",
+   "title": "Ordenanza Regional N° 368-AREQUIPA: Aprueban el Reglamento del Proceso de Presupuesto Participativo del Gobierno Regional de Arequipa para el ejercicio 2018",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1500424-1",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C8o4PhyS4jB8_9-5jioxIK/*/1500424-1.pdf",
+     "sha256": "67b6eeda43c281c9a67edcc293ea436fb2660b07ef6191e8a90ad866ca82ea8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-366-arequipa",
+   "short": "Ordenanza Regional N° 366-AREQUIPA",
+   "title": "Ordenanza Regional N° 366-AREQUIPA: Ordenanza Regional que declara de interés público regional el manejo integrado de la Zona Marino Costera de la Región Arequipa y disponen la creación del Grupo Técnico Regional para la Elaboración del Plan de Manejo Integrado de la Zona Marino Costera de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1496147-1",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9cJBfB5aqimApbXhqAzMol/*/1496147-1.pdf",
+     "sha256": "59ed0f4a539b952253d774414a70b141673dfff827f6a693c06d46039a029cdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-367-arequipa",
+   "short": "Ordenanza Regional N° 367-AREQUIPA",
+   "title": "Ordenanza Regional N° 367-AREQUIPA: Ordenanza Regional que aprueba declarar Día del Pisco Arequipeño y la Ruta del Pisco como atractivo turístico de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1496147-2",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/93NDVbYeKxL9G4MNAT7ZZv/*/1496147-2.pdf",
+     "sha256": "fedf112b52c9e6ecd3291d055ba6ec75f4a13e0397488e33dc5d46da499d64bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-365-arequipa",
+   "short": "Ordenanza Regional N° 365-AREQUIPA",
+   "title": "Ordenanza Regional N° 365-AREQUIPA: Ordenanza Regional que modifica la Comisión Regional Multisectorial Permanente para la implementación de la iniciativa para la transparencia de las industrias extractivas en Arequipa (EITI - Arequipa)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1496144-1",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BI-NnvQv4yf9pR8ETbIoeX/*/1496144-1.pdf",
+     "sha256": "9e75710ae078a5560e59b19d884b276a7ab13364c88f4c9e127b1633ac2df263"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-363-arequipa",
+   "short": "Ordenanza Regional N° 363-AREQUIPA",
+   "title": "Ordenanza Regional N° 363-AREQUIPA: Aprueban la Estrategia Regional y el Plan de Acción de Diversidad Biológica de la Región Arequipa 2016 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1472212-2",
+   "versions": [
+    {
+     "from": "2017-01-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ChCfG5ryqiA8v-tlePGYVY/*/1472212-2.pdf",
+     "sha256": "0f4e02951a9dc93dd405f9e505116ddff6a9eac71f32d5d22bf153fae3bd3595"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-362-arequipa",
+   "short": "Ordenanza Regional N° 362-AREQUIPA",
+   "title": "Ordenanza Regional N° 362-AREQUIPA: Modifican el TUPA del Gobierno Regional de Arequipa, incorporando procedimientos correspondientes a la Gerencia Regional de Agricultura",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1472212-1",
+   "versions": [
+    {
+     "from": "2017-01-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6328LgDlKnIBJfzBlcjUKM/*/1472212-1.pdf",
+     "sha256": "d8aaa751f59fab1cbb1ec9a9cea1c7af2f7302507239625c2ae380cc95229889"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-364-arequipa",
+   "short": "Ordenanza Regional N° 364-AREQUIPA",
+   "title": "Ordenanza Regional N° 364-AREQUIPA: Ordenanza que promueve la elaboración de una política regional para la administración y/o gestión de personal médico del Sector Regional de Salud y dicta medidas transitorias",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1472212-3",
+   "versions": [
+    {
+     "from": "2017-01-13",
+     "units": 13,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EdUKGgZ2K7zBNcFqyPfVVT/*/1472212-3.pdf",
+     "sha256": "82ba41c402d2e524dbcfb91ab0aeb91edd15f96750cf52ec9662225882458359"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-361-arequipa",
+   "short": "Ordenanza Regional N° 361-AREQUIPA",
+   "title": "Ordenanza Regional N° 361-AREQUIPA: Ordenanza Regional que promueve acciones de sensibilización y concientización en rechazo de los delitos Aduaneros y Piratería en la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1467602-2",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6UDwv3pjasW9hCGtEuw9Lt/*/1467602-2.pdf",
+     "sha256": "389060464fa1532b2ab5f37875c95b13826f9da65d8599b2f3c2c9a7eb2ae7a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-360-arequipa",
+   "short": "Ordenanza Regional N° 360-AREQUIPA",
+   "title": "Ordenanza Regional N° 360-AREQUIPA: Ordenanza Regional que declara de interés público regional la conservación y protección de la Laguna de Mamacocha y dispone el inicio de acciones para la creación del área de conservación regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1467602-1",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/15nQq3rfaChAWKDpVmaPDP/*/1467602-1.pdf",
+     "sha256": "d2c33744c2e2d1f8b6879ccdb5205445c6ba122ff798c7cf5d0252a9c05be7a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-359-arequipa",
+   "short": "Ordenanza Regional N° 359-AREQUIPA",
+   "title": "Ordenanza Regional N° 359-AREQUIPA: Declaran de interés regional el registro de la Marca Destino Arequipa y Logotipo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466859-2",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7IsVr5xlaHKAtZ8QfgATns/*/1466859-2.pdf",
+     "sha256": "6bbb59c6549db4a871ccac2a8a2ff1117c1cb694bfab9bcbaca28eda5d699a9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-356-arequipa",
+   "short": "Ordenanza Regional N° 356-AREQUIPA",
+   "title": "Ordenanza Regional N° 356-AREQUIPA: Crean la Comisión Regional Multisectorial Permanente, para la implementación en el ámbito regional de la iniciativa para la transparencia de las industrias extractivas en Arequipa  (EITI - AREQUIPA)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466858-3",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Bhu3MyDUaxw8AZcxCeU5OQ/*/1466858-3.pdf",
+     "sha256": "10c0fc757427ea86ead2ab5f6d35b20d70ef7d16b59d199a5b88e0a5b18e8379"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-357-arequipa",
+   "short": "Ordenanza Regional N° 357-AREQUIPA",
+   "title": "Ordenanza Regional N° 357-AREQUIPA: Modifican el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466858-4",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DlnDlsA4qAI9UokfcbZ4L-/*/1466858-4.pdf",
+     "sha256": "433bc6e67ca4d5af0ce17433d4829f6bb5612e6fa0bb2a528e4843dd8b2addfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-355-arequipa",
+   "short": "Ordenanza Regional N° 355-AREQUIPA",
+   "title": "Ordenanza Regional N° 355-AREQUIPA: Declaran la Ruta Cultural “Mario Vargas Llosa” Atractivo Turístico Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466858-2",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2etccUoIq4a90Z5Lx35Jgj/*/1466858-2.pdf",
+     "sha256": "13c0c74b32a488d079519303777697d069cf602d34a4afb20a181c5541a9797c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-358-arequipa",
+   "short": "Ordenanza Regional N° 358-AREQUIPA",
+   "title": "Ordenanza Regional N° 358-AREQUIPA: Modifican los artículos 2° y 3° de la Ordenanza Regional N° 213-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466859-1",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0CAAC7704QYBfACd74G0UM/*/1466859-1.pdf",
+     "sha256": "62c5515e86f7a99b6869b01ec16cc36fb3001641498d4969bd0232b9a46506b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-353-arequipa",
+   "short": "Ordenanza Regional N° 353-AREQUIPA",
+   "title": "Ordenanza Regional N° 353-AREQUIPA: Modifican Ordenanza Regional N° 167-AREQUIPA que crea la “Mesa Regional para las Personas con Capacidades Diferentes de la Región Arequipa”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466857-1",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EbL7r5rFaN_Aq0oCE73nQI/*/1466857-1.pdf",
+     "sha256": "57206d1f1db4269481a1a26307f1caa739606e931a2d190348424809f2f95471"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-354-arequipa",
+   "short": "Ordenanza Regional N° 354-AREQUIPA",
+   "title": "Ordenanza Regional N° 354-AREQUIPA: Modifican el artículo 2° de la Ordenanza Regional N° 224-AREQUIPA que conformó la Comisión Regional Anticorrupción de Arequipa - CRAA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1466858-1",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DFy1ckkJaYB8GnP-4tact0/*/1466858-1.pdf",
+     "sha256": "0cf5f922bd9585b9cacbab25f181269fdb6bcc7d38404c3a8aa8299495170580"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-352-arequipa",
+   "short": "Ordenanza Regional N° 352-AREQUIPA",
+   "title": "Ordenanza Regional N° 352-AREQUIPA: Amplían plazo para el proceso de Reestructuración del Proyecto Especial Majes Sihuas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1443293-1",
+   "versions": [
+    {
+     "from": "2016-10-22",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0uS1zbHpKRt9dtV9L8dbhX/*/1443293-1.pdf",
+     "sha256": "c059f06dc315bfe4a1ecaeabf66aedaa2bc8942c32657a260daabdae9007614d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-351-arequipa",
+   "short": "Ordenanza Regional N° 351-AREQUIPA",
+   "title": "Ordenanza Regional N° 351-AREQUIPA: Aprueban la creación de la “Instancia Regional de Concertación de la Región Arequipa para Erradicar la Violencia contra la Mujer y los Integrantes del Grupo Familiar”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1433360-3",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7tc7MKvPqyC9Z2OfjNOxcc/*/1433360-3.pdf",
+     "sha256": "6b8bc7766eb69edcdbe7476616386245db9dc6ede4eaac691103abb85ab64ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-350-arequipa",
+   "short": "Ordenanza Regional N° 350-AREQUIPA",
+   "title": "Ordenanza Regional N° 350-AREQUIPA: Aprueban el Plan Regional de Vivienda y Suelo (PREVIS) de Arequipa - Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1433360-2",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ER_iduSZqz09rlxJJ4n2ml/*/1433360-2.pdf",
+     "sha256": "40373d0988386356855c9a4bc6f3dd1e12efc04174d11932e99ba8e8aabb57c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-349-arequipa",
+   "short": "Ordenanza Regional N° 349-AREQUIPA",
+   "title": "Ordenanza Regional N° 349-AREQUIPA: Aprueban el Plan de Desarrollo Regional Concertado 2013-2021 Actualizado de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1433360-1",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7SWxU5-F4Zq8CK0aQyMdQb/*/1433360-1.pdf",
+     "sha256": "8af9faa3272d410dcb4b2903024ac7eadc8d66f55a4a5c435513ea8b29c1d42c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-347-arequipa",
+   "short": "Ordenanza Regional N° 347-AREQUIPA",
+   "title": "Ordenanza Regional N° 347-AREQUIPA: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional de la Gerencia Regional de Salud",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1432277-1",
+   "versions": [
+    {
+     "from": "2016-09-24",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F7-IBFflqHR8g-oNsHiqOQ/*/1432277-1.pdf",
+     "sha256": "34ef05e67e65387ba54c596aafd439ff3e4cf3a209ee474956f19a7822b4969a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-346-arequipa",
+   "short": "Ordenanza Regional N° 346-AREQUIPA",
+   "title": "Ordenanza Regional N° 346-AREQUIPA: Ordenanza Regional que aprueba la creación de los Comités de Vigilancia Ambiental para una minería sostenible - COVAMS",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1425462-1",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5HFLaNdraXC8A95Mmg52WX/*/1425462-1.pdf",
+     "sha256": "d8f6f9b98f46b1d83801def9b545b2d6ba09d050c3ac4f4aca6a25c2769006fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-342-arequipa",
+   "short": "Ordenanza Regional N° 342-AREQUIPA",
+   "title": "Ordenanza Regional N° 342-AREQUIPA: Modifican el Reglamento Interno del Consejo Regional aprobado mediante Ordenanza Regional N° 154-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1417198-1",
+   "versions": [
+    {
+     "from": "2016-08-20",
+     "units": 25,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7F6RCKcca4oBm8p4tu_OOC/*/1417198-1.pdf",
+     "sha256": "db8be6852ba8b41db96c47ef2753dbf0fe764815d92886bdea09bcb33b5890fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-345-arequipa",
+   "short": "Ordenanza Regional N° 345-AREQUIPA",
+   "title": "Ordenanza Regional N° 345-AREQUIPA: Aprueban la declaratoria de la Ruta del Olivo atractivo turístico de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1413660-1",
+   "versions": [
+    {
+     "from": "2016-08-12",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3zaqlmgHqqTAd4TYg0Rd9y/*/1413660-1.pdf",
+     "sha256": "4d3438778bbbb187165ed6e954c67c3e8f242adafaafb6901a9c45b634785d0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-343-arequipa",
+   "short": "Ordenanza Regional N° 343-AREQUIPA",
+   "title": "Ordenanza Regional N° 343-AREQUIPA: Aprueban la constitución de la Mancomunidad Regional Macro Región Sur, integrada por los Gobiernos Regionales de Arequipa, Apurímac, Cusco, Madre de Dios, Moquegua, Puno y Tacna, como persona jurídica de derecho público",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1405118-1",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3LEvz2-k4Kd8UtdRx8Bjoo/*/1405118-1.pdf",
+     "sha256": "a0bd566d5d0308f7e60a23613de7a3d1d93bdd30143204a014a816f11c206e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-344-arequipa",
+   "short": "Ordenanza Regional N° 344-AREQUIPA",
+   "title": "Ordenanza Regional N° 344-AREQUIPA: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1405118-2",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8kGjUQRv4wNBPRvN9dWQmP/*/1405118-2.pdf",
+     "sha256": "75b833566b05062a9d1044a7316545f9246b98aa25e74c3c6730364a78fd2e41"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-341-arequipa",
+   "short": "Ordenanza Regional N° 341-AREQUIPA",
+   "title": "Ordenanza Regional N° 341-AREQUIPA: Aprueban el Plan Regional de Empleo Juvenil de la Región Arequipa - PREJAQP 2016 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1392266-1",
+   "versions": [
+    {
+     "from": "2016-06-16",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7-BAfOf1KRzAOwvYQ-EF_8/*/1392266-1.pdf",
+     "sha256": "13aea0a2f4eef63a529fc6bf640051526fd46fad005f05b2636e990754a53067"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-339-arequipa",
+   "short": "Ordenanza Regional N° 339-AREQUIPA",
+   "title": "Ordenanza Regional N° 339-AREQUIPA: Reservan área de terreno para pobladores del Anexo de Pusa Pusa cuyas tierras sean afectadas por el embalse de Angostura, por la II Etapa del Proyecto Especial Majes Siguas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1384000-2",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5U4s1Q-6qic9H3A7vyAWOM/*/1384000-2.pdf",
+     "sha256": "6ae2eb001a637c6dd8aa68fe5d6f4c1527a9f3019b8838657549e909eaef9d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-340-arequipa",
+   "short": "Ordenanza Regional N° 340-AREQUIPA",
+   "title": "Ordenanza Regional N° 340-AREQUIPA: Apruban Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional - CCR del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1384000-3",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8VcU_JOv40n8L9AiqhwQ4L/*/1384000-3.pdf",
+     "sha256": "c2b641153e0ec0cc78a25d0e1dafbd1f5bead20b517cbd791c4c412c49a661ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-338-arequipa",
+   "short": "Ordenanza Regional N° 338-AREQUIPA",
+   "title": "Ordenanza Regional N° 338-AREQUIPA: Ordenanza Regional que modifica el Reglamento de Organización y Funciones de la Gerencia Regional de la Producción",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1384000-1",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Cc5vFdeaaRlA4z8HfVR6WL/*/1384000-1.pdf",
+     "sha256": "379e4ff52ae73b5b1f0d700fa0f549462cccf4acbc77e47e8c1446199f1e11d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-337-arequipa",
+   "short": "Ordenanza Regional N° 337-AREQUIPA",
+   "title": "Ordenanza Regional N° 337-AREQUIPA: Ratifican el Plan Regional de Seguridad Ciudadana 2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1379923-1",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6fA024yK40SARfdL95KfdL/*/1379923-1.pdf",
+     "sha256": "0b38f0331b3cbdaf5f835ae9637a702e176d93b471eaab7f659baf2951334635"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-334-arequipa",
+   "short": "Ordenanza Regional N° 334-AREQUIPA",
+   "title": "Ordenanza Regional N° 334-AREQUIPA: Aprueban Plan Estratégico Regional de Artesanía  - PERDAR - de la Región Arequipa 2016 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1374727-2",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2iW8eKnSq999HooQEtVyPj/*/1374727-2.pdf",
+     "sha256": "53f496e6f0bf5bffdb670a7d9e2bf1e27959f67874979f99265a4cb57c23a9ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-335-arequipa",
+   "short": "Ordenanza Regional N° 335-AREQUIPA",
+   "title": "Ordenanza Regional N° 335-AREQUIPA: Aprueban Reglamento del Proceso de Presupuesto Participativo del Gobierno Regional de Arequipa para el Ejercicio 2017",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1374726-1",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3Mq9dbD841U85WYzzt1S76/*/1374726-1.pdf",
+     "sha256": "55841d26a8e98c82f4ad09649cc0e3ce64990a15e3ff7cbaa6e966b9e20d1e66"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-333-arequipa",
+   "short": "Ordenanza Regional N° 333-AREQUIPA",
+   "title": "Ordenanza Regional N° 333-AREQUIPA: Derogan diversas Ordenanzas y Acuerdos Regionales aprobados durante los años 2013 y 2014, relativos al Proyecto Especial Majes Siguas - AUTODEMA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1374727-1",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FEAaXsmM4mHA6hdq4b2fnY/*/1374727-1.pdf",
+     "sha256": "138c1c8c3a8408c3d61390ba5d1109663554c9f7f501e28ae8396018270d686b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-332-arequipa",
+   "short": "Ordenanza Regional N° 332-AREQUIPA",
+   "title": "Ordenanza Regional N° 332-AREQUIPA: Ordenanza Regional que aprueba la creación de las Unidades Ejecutoras en las Unidades de Gestión Educativa - UGEL Caylloma, Camaná, Caravelí, Castilla, Condesuyos, Islay, La Unión y La Joya",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1344900-1",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BAY1uzI6Ki48LZJKKb42V5/*/1344900-1.pdf",
+     "sha256": "00f359e30148bf9ad76ba3d86e3ea650160a88818fc55aeaa840113b55897b91"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-330-arequipa",
+   "short": "Ordenanza Regional N° 330-AREQUIPA",
+   "title": "Ordenanza Regional N° 330-AREQUIPA: Ordenanza Regional que dispone el inicio del proceso de reestructuración del Proyecto Especial Majes Siguas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1344899-1",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6dGqorXqKpOBeAGyFa-7vH/*/1344899-1.pdf",
+     "sha256": "db2e2914d1805ba7bcf0d5ea042072b9b84f677b547a6a8db7509163d02ff5dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-326-arequipa",
+   "short": "Ordenanza Regional N° 326-AREQUIPA",
+   "title": "Ordenanza Regional N° 326-AREQUIPA: Derogan las Ordenanzas Regionales N°s 047, 058 y 291-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1331107-1",
+   "versions": [
+    {
+     "from": "2016-01-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9JgqkLmLqOdBjyoy3QDzZ0/*/1331107-1.pdf",
+     "sha256": "81bd3fd65e059df8836ca78dc8135df4155b3e701d5585fd9cf27de0cfafa984"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-329-arequipa",
+   "short": "Ordenanza Regional N° 329-AREQUIPA",
+   "title": "Ordenanza Regional N° 329-AREQUIPA: Aprueban la creación del Consejo Regional de Comunidades Campesinas - CORECCAM del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1331107-4",
+   "versions": [
+    {
+     "from": "2016-01-10",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DtK_uQSb4O_9_8SORwi4Q6/*/1331107-4.pdf",
+     "sha256": "3c3860c5e4189e7ba8142e8b8c8f5fc26edf5c14e65dfd8f54e1002795c0578c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-327-arequipa",
+   "short": "Ordenanza Regional N° 327-AREQUIPA",
+   "title": "Ordenanza Regional N° 327-AREQUIPA: Declaran de interés prioritario regional la atención integral del adulto mayor y aprueban la creación del Consejo Regional para las Personas Adultas Mayores",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1331107-2",
+   "versions": [
+    {
+     "from": "2016-01-10",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7v84bkZfaIDBfSxt9uO3qa/*/1331107-2.pdf",
+     "sha256": "1acfffd860df5fb1e448ca12575ee33b00311ecfcfde434bc30066d618a481ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-324-arequipa",
+   "short": "Ordenanza Regional N° 324-AREQUIPA",
+   "title": "Ordenanza Regional N° 324-AREQUIPA: Modifican la Ordenanza Regional N° 167-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1326901-4",
+   "versions": [
+    {
+     "from": "2015-12-26",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1jjOVzfZKCW8r8c-l__iG5/*/1326901-4.pdf",
+     "sha256": "c62a03f474129c05bb4b54f150a0df4153ee30d4c22e370b3d4fd7709236705b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-323-arequipa",
+   "short": "Ordenanza Regional N° 323-AREQUIPA",
+   "title": "Ordenanza Regional N° 323-AREQUIPA: Aprueban Reglamento Interno de Funcionamiento del Consejo Regional de Granos Andinos - COREGRA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1326901-3",
+   "versions": [
+    {
+     "from": "2015-12-26",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AhZVypm0arNBFofzGya5t1/*/1326901-3.pdf",
+     "sha256": "1970296b37e66bb18d1a0556fc8de64ea536a81c33947c025111f6a0789fed46"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-321-arequipa",
+   "short": "Ordenanza Regional N° 321-AREQUIPA",
+   "title": "Ordenanza Regional N° 321-AREQUIPA: Establecen de necesidad pública e interés regional la declaratoria de las Playas y Caletas Mágicas de Arequipa y proponen su declaración de Área de Conservación Regional ACR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1326901-1",
+   "versions": [
+    {
+     "from": "2015-12-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/420ocv4kqnJAH1hM3Q-vxp/*/1326901-1.pdf",
+     "sha256": "2124bfcd25a2a320d58fce26f2a2b0f706d28b98bf08ece6ee8f61fa02532ddd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-322-arequipa",
+   "short": "Ordenanza Regional N° 322-AREQUIPA",
+   "title": "Ordenanza Regional N° 322-AREQUIPA: Crean el Fondo Regional Ambiental (FORAM)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1326901-2",
+   "versions": [
+    {
+     "from": "2015-12-26",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C-U54pvk4BaBZhzIoTIKIs/*/1326901-2.pdf",
+     "sha256": "8afd065d1a1f449628a83ba5137200cc13a4cf9af2253a3e5f21f876e16cf317"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-319-arequipa",
+   "short": "Ordenanza Regional N° 319-AREQUIPA",
+   "title": "Ordenanza Regional N° 319-AREQUIPA: Derogan la Ordenanza Regional Nº 114-AREQUIPA, así como sus modificatorias aprobadas por Ordenanzas Regionales Nºs. 116, 122, 127, 139, 144, 158 y 212-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1304795-3",
+   "versions": [
+    {
+     "from": "2015-10-31",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EAvA-ZhL4nd8-CuwZKtwPU/*/1304795-3.pdf",
+     "sha256": "f35f2bc25907bbe551745f51f892cf9c4d338fc919b8207323144af0e40c871b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-318-arequipa",
+   "short": "Ordenanza Regional N° 318-AREQUIPA",
+   "title": "Ordenanza Regional N° 318-AREQUIPA: Modifican la denominación de la Red Regional constituida por Ordenanza Regional Nº 159-AREQUIPA a efecto de denominarla “Red Regional de Lucha contra la Trata de Personas, Tráfico Ilícito de Migrantes y Trabajo Forzoso de la Región Arequipa”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1304795-2",
+   "versions": [
+    {
+     "from": "2015-10-31",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7ktw3IkCqkmBa1eoGMOTjY/*/1304795-2.pdf",
+     "sha256": "51c8a432c1f7631567cc238cde838e2e8d978e1057ece30cb9e594d24cb0a5ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-317-arequipa",
+   "short": "Ordenanza Regional N° 317-AREQUIPA",
+   "title": "Ordenanza Regional N° 317-AREQUIPA: Modifican la Ordenanza Regional N° 226-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1304795-1",
+   "versions": [
+    {
+     "from": "2015-10-31",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1jEtbuP84Ih8EJJEytYNvo/*/1304795-1.pdf",
+     "sha256": "2a022adbced7997c768994d1a23dcde52b26ef022896ccd720d69a47ab418626"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-315-2015",
+   "short": "Ordenanza Regional N° 315-2015",
+   "title": "Ordenanza Regional N° 315-2015: Ordenanza Regional que modifica los artículos 2, 5 y 6 de la Ordenanza Regional N° 224-Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1295168-4",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dei-NnCsKAEBFTMgSCogBQ/*/1295168-4.pdf",
+     "sha256": "bb20cd97844cb55374e5c700abeab7f8349397d1b3afb97842d2cfa00f00d1f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-314-2015",
+   "short": "Ordenanza Regional N° 314-2015",
+   "title": "Ordenanza Regional N° 314-2015: Ordenanza Regional que aprueba el Reglamento Interno de Funcionamiento del CREM y modifica la Ordenanza Regional N° 229-Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1295168-3",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4XRUsYPrqCwAUFcF1MCS2X/*/1295168-3.pdf",
+     "sha256": "da9b1767d0632b10422f3396b71ee6e3f3b2c7b1d008b00c8b2a4111b8584231"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-311-arequipa",
+   "short": "Ordenanza Regional N° 311-AREQUIPA",
+   "title": "Ordenanza Regional N° 311-AREQUIPA: Ratifican el Plan Regional de Seguridad Ciudadana 2015",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1284130-1",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ADTXFfTgau49mlC0U2Yw6W/*/1284130-1.pdf",
+     "sha256": "4041ed334f4d7ce943bd3df8d6eac4653e028d8a5bb465ffaa482c9fb71e7fec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-145-arequipa",
+   "short": "Ordenanza Regional N° 145-AREQUIPA",
+   "title": "Ordenanza Regional N° 145-AREQUIPA: Modifican la Ordenanza Regional N° 108-AREQUIPA, que crea la Comisión Ambiental Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/696515-1",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3rsH78eya1E9gu4Qi7NidZ/*/696515-1.pdf",
+     "sha256": "580f9d84086306e178a92157437494b7cd37ed4a14a517f9628d35715b1f7cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-139-arequipa",
+   "short": "Ordenanza Regional N° 139-AREQUIPA",
+   "title": "Ordenanza Regional N° 139-AREQUIPA: Suspenden actos, plazos y procedimientos de impugnación ante el Tribunal Administrativo Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/642372-1",
+   "versions": [
+    {
+     "from": "2011-05-22",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8YYOboHvKd6Ae8d6dhxqkl/*/642372-1.pdf",
+     "sha256": "95c980a848cc0cd406aa2e9e10684c18eaea42d678b4ef8f5dae2742c65a7e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-133-arequipa",
+   "short": "Ordenanza Regional N° 133-AREQUIPA",
+   "title": "Ordenanza Regional N° 133-AREQUIPA: Crean la Mesa Regional de Lucha contra las Drogas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/627179-1",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CVEf24zXqRw9VOsTUv_2Va/*/627179-1.pdf",
+     "sha256": "7ef64e56adf8ca913dc73f22b5348a45e57f35b167a05c039db502f71cf78850"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-131-arequipa",
+   "short": "Ordenanza Regional N° 131-AREQUIPA",
+   "title": "Ordenanza Regional N° 131-AREQUIPA: Aprueban el Calendario Conmemorativo de la Mujer en el ámbito de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/621457-1",
+   "versions": [
+    {
+     "from": "2011-04-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EifRJaYfKy0BTJQCMaztEo/*/621457-1.pdf",
+     "sha256": "18cb46da14d2630749bdbd9b67f3e2374239777e6350e20a0fc329d9b108df58"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-309-arequipa",
+   "short": "Ordenanza Regional N° 309-AREQUIPA",
+   "title": "Ordenanza Regional N° 309-AREQUIPA: Ordenanza Regional que dispone la actualización del Plan de Desarrollo Regional Concertado 2013 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1250899-1",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FFz4_eB84Kd9ljvZf9q8qQ/*/1250899-1.pdf",
+     "sha256": "62eac45edba2afca40f8d10c966b63cc6fd20023a682a134d9ba7de6c96b8d73"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-098-arequipa",
+   "short": "Ordenanza Regional N° 098-AREQUIPA",
+   "title": "Ordenanza Regional N° 098-AREQUIPA: Declaran área ubicada en la provincia de Camaná como  Zona Reservada para la Protección del Recurso Hidrobiológico \"Macha\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/432462-3",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9qxVLagsqpDAb0I0dX1TwU/*/432462-3.pdf",
+     "sha256": "5adefdbd138f9eb1b18015220e99e5e90ffe01f07c9a23c73615fc679bdc3ed0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-123-arequipa",
+   "short": "Ordenanza Regional N° 123-AREQUIPA",
+   "title": "Ordenanza Regional N° 123-AREQUIPA: Prorrogan Régimen Transitorio de Adscripción de la Autoridad Autónoma del Colca a la Municipaslidsad Provinciasl de Caylloma",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/571705-4",
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AoDIreBzKE_BOOdl4bR3Op/*/571705-4.pdf",
+     "sha256": "b8394fe3831fd4cfbeadd415a904a527bd3e8fed53d31c89b5df642ecbf91915"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-125-arequipa",
+   "short": "Ordenanza Regional N° 125-AREQUIPA",
+   "title": "Ordenanza Regional N° 125-AREQUIPA: Aprueban Reglamento del Programa Regional de Pequeñas y Medianas Irrigaciones de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/573586-2",
+   "versions": [
+    {
+     "from": "2010-12-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/86_q9b-fqofAq-X5MOTxrq/*/573586-2.pdf",
+     "sha256": "c826a78c48d4b8a9c2bc57156788481763db0dcd4766018bfdca2089804da12c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-160-arequipa",
+   "short": "Ordenanza Regional N° 160-AREQUIPA",
+   "title": "Ordenanza Regional N° 160-AREQUIPA: Aprueban la Política Regional del Ambiente de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/776026-1",
+   "versions": [
+    {
+     "from": "2012-04-17",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EGu24TpZKbVB5akDhhEfwv/*/776026-1.pdf",
+     "sha256": "e9d8b60dc4f53820f8a34bfae20f41c6cf005e2b12a66d02e2e78f6e01fc53b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-156-arequipa",
+   "short": "Ordenanza Regional N° 156-AREQUIPA",
+   "title": "Ordenanza Regional N° 156-AREQUIPA: Aprueban Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional del Gobierno Regional de Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/752817-1",
+   "versions": [
+    {
+     "from": "2012-02-18",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6ItQyUj-a2Z9UTJbwYlsKY/*/752817-1.pdf",
+     "sha256": "4603e38a1721e6fefb6ea08fa3050ef9fa625ad3dbfc49530e2764bd50543e53"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-249-arequipa",
+   "short": "Ordenanza Regional N° 249-AREQUIPA",
+   "title": "Ordenanza Regional N° 249-AREQUIPA: Modifican la Ordenanza N° 098-AREQUIPA y amplían la zona reservada para la protección del Recurso Hidrobiológico \"Macha\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1018619-1",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3adr-msqalaA90CvgdOHjS/*/1018619-1.pdf",
+     "sha256": "7c45831057b8bbe90f0d5c90e676f74ecb957785db885462216fabd3a281f8a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-247-arequipa",
+   "short": "Ordenanza Regional N° 247-AREQUIPA",
+   "title": "Ordenanza Regional N° 247-AREQUIPA: Modifican la Ordenanza Regional N° 026-2006-GRA-CR-AREQUIPA, en lo relativo a integrantes, funciones y facultades del COREMYPE de la Región Arequipa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1008489-1",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0mQWh-aFqER9rTkNQ8MRNL/*/1008489-1.pdf",
+     "sha256": "9c26a69ed274d0214cb3037e02b50bcf4dfcb5c898e8c863cb93da500deac3c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-243-arequipa",
+   "short": "Ordenanza Regional N° 243-AREQUIPA",
+   "title": "Ordenanza Regional N° 243-AREQUIPA: Crean el Proyecto Especial Tambo - Provincia de Islay",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/990836-1",
+   "versions": [
+    {
+     "from": "2013-09-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5vDAaaVjKi69ZjbKtsNwAv/*/990836-1.pdf",
+     "sha256": "8530a515cc4b088d9655229bd094f15fe3d189e2a347aba4049aa3cf661df80b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-240-arequipa",
+   "short": "Ordenanza Regional N° 240-AREQUIPA",
+   "title": "Ordenanza Regional N° 240-AREQUIPA: Modifican la Ordenanza N° 193-AREQUIPA mediante la cual se creó el Consejo Regional de Competitividad de la Región Arequipa - CORECOA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/981090-1",
+   "versions": [
+    {
+     "from": "2013-08-31",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5TN2ZwzB4K3A4FwryAMzeE/*/981090-1.pdf",
+     "sha256": "9b2011b53ef3ee829c4260ef963e224e607e5c60ec4b4fa7149b8de8e79def13"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-238-arequipa",
+   "short": "Ordenanza Regional N° 238-AREQUIPA",
+   "title": "Ordenanza Regional N° 238-AREQUIPA: Modifican la Ordenanza Regional N° 153-AREQUIPA, modificada por Ordenanza Regional N° 220-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/976434-1",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CAVi13SvKTgBMj5ODE9nwG/*/976434-1.pdf",
+     "sha256": "558054f301398ddf51d8aafde8ca343a78c581812bbeb0fe52f84e0e8d50c061"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-237-arequipa",
+   "short": "Ordenanza Regional N° 237-AREQUIPA",
+   "title": "Ordenanza Regional N° 237-AREQUIPA: Declaran de interés público regional la Capacitación y Alta Especialización Profesional de los Docentes de Primer y Segundo Grado de Educación Primaria",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/975811-1",
+   "versions": [
+    {
+     "from": "2013-08-19",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4FaVLN3AabuBHBiv0szdqP/*/975811-1.pdf",
+     "sha256": "0cd0474d5b5b5edceb8d146ccbb6dd9cca7428491484449b64bdd7a549fda829"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-236-arequipa",
+   "short": "Ordenanza Regional N° 236-AREQUIPA",
+   "title": "Ordenanza Regional N° 236-AREQUIPA: Aprueban el Reglamento de Organización y Funciones (ROF) de la Gerencia Regional de Transportes y Comunicaciones",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/982998-1",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CXunDh9P4nj9koUmSaLgCy/*/982998-1.pdf",
+     "sha256": "32ecdbba5420f595eb14a0bbf6831957f50407679e0ed7885ad6baa022d7fb08"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-215-arequipa",
+   "short": "Ordenanza Regional N° 215-AREQUIPA",
+   "title": "Ordenanza Regional N° 215-AREQUIPA: Amplían plazo de acogimiento a la Ordenanza Regional N° 197-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/913925-5",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0r4ub1vc4Ue9BZai3FB55m/*/913925-5.pdf",
+     "sha256": "5631fc33b1b9ca3cb3bc7db1c258f39e0df189b704213954245169cb5ff993f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-201-arequipa",
+   "short": "Ordenanza Regional N° 201-AREQUIPA",
+   "title": "Ordenanza Regional N° 201-AREQUIPA: Aprueban Reglamento de Organización y Funciones del Hospital Central de Majes",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/933970-1",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3ZdnGKtya8p8nVUC2Q9yK8/*/933970-1.pdf",
+     "sha256": "2788784b6ff061e753ca75c761861e9ee8abc207d8d5c4a4385819c5d070852d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-206-arequipa",
+   "short": "Ordenanza Regional N° 206-AREQUIPA",
+   "title": "Ordenanza Regional N° 206-AREQUIPA: Modifican la Ordenanza Regional N° 190-AREQUIPA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/907272-8",
+   "versions": [
+    {
+     "from": "2013-03-07",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DvLPTTCIKKOBd0XZuyK37V/*/907272-8.pdf",
+     "sha256": "b199172e54601cb7a9b83a353289f3a8785cd1a44211738b21d6b54ab415a3bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-205-arequipa",
+   "short": "Ordenanza Regional N° 205-AREQUIPA",
+   "title": "Ordenanza Regional N° 205-AREQUIPA: Aprueban Reglamento para la Elección de Representantes de Gremios de la Micro y Pequeña Empresa del Sector Público distinto al Gobierno Regional, Universidades y ONGs al Consejo Regional de la Micro y Pequeña Empresa - COREMYPE",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/901138-1",
+   "versions": [
+    {
+     "from": "2013-02-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FPKADNVcK2F9ZmoU12QTSo/*/901138-1.pdf",
+     "sha256": "0f6371adfc5675b363e8946e70adc5b344edc1dd4ee0d50fced5a34a5398f2d5"
+    }
+   ]
+  }
+ ]
+}

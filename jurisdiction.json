@@ -1,0 +1,11 @@
+{
+  "path": "pe-are",
+  "code": "PE-ARE",
+  "name": "Arequipa",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-arequipa-law",
+  "build": "built: 215 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
